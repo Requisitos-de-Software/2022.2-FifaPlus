@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Documentação de Requisitos de Software acerca do aplicativo de streaming de áudio Spotify.
   Projeto do grupo 8 para a disciplina de Requisitos de Software, na UnB (Faculdade do Gama). 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
