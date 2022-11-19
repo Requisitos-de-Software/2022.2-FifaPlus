@@ -1,0 +1,7 @@
+/* Add any custom style options to be included at mkdocks.yml file here */
+
+[data-md-color-scheme="spotify"] {
+    --md-primary-fg-color: #1DB954;
+    --md-primary-fg-color--light: #1DB954;
+    --md-primary-fg-color--dark: #1DB954;
+}
