@@ -1,4 +1,4 @@
-site_name: 2022.2 - Spotify
+site_name: Spotify
 site_url: https://requisitos-de-software.github.io/2022.2-Spotify
 repo_url: https://github.com/Requisitos-de-Software/2022.2-Spotify
 repo_name: 2022.2-Spotify
@@ -16,10 +16,13 @@ extra:
 
 nav:
   - Home: index.md
-  - About: about.md
+  - Planejamento:
+      - Ferramentas: planning/tools.md # Substituir pelo arquivo real
+      - Cronograma: planning/roadmap.md # Substituir pelo arquivo real
+      - Rich Picture: planning/richPicture.md
 theme:
   name: material
-  logo: assets/img/spotify.png
+  logo: img/social.png
   icon:
     repo: fontawesome/brands/github
   palette:
