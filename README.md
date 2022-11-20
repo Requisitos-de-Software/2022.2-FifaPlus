@@ -1,8 +1,9 @@
+
 # Projeto da disciplina de Requisitos de software - Spotify
 ### UnB 2022/2
-
+<div align="center">
 <img src="docs/assets/img/spotify-logoLight.png"/>
-
+</div>
 ## Objetivo
 Esse projeto tem o objetivo de utilizar as técnicas e ferramentas expostas pela disciplina de Requisitos de Software do curso de Engenharia de Software da UnB FGA, para analisar e documentar os Requisitos do aplicativo de streaming de música [Spotify](https://spotify.com).
 
