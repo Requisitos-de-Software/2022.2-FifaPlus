@@ -90,6 +90,8 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 
 SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2307416/mod_resource/content/22/Plano_de_Ensino%20RE%20202202%20Turma%202.pdf>. Acesso em: 21 de novembro de 2022;
 
+Entregas do Projeto de Requisitos. Disponível em: <https://aprender3.unb.br/course/view.php?id=16379#section-11>. Acesso em: 21 de novembro de 2022;
+
 
 ## Histórico de versão do arquivo
 
