@@ -26,6 +26,8 @@ nav:
       - Ferramentas: planning/tools.md # Substituir pelo arquivo real
       - Cronograma: planning/roadmap.md # Substituir pelo arquivo real
       - Rich Picture: planning/richPicture.md
+  - Apresentações:
+      - Entrega 1: presentations/presentation1.md
 
 theme:
   name: material
