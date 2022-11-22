@@ -20,20 +20,16 @@ extra:
     - link: https://www.spotify.com
       icon: fontawesome/brands/spotify
 
-nav:
-  - Home: index.md
-  - Planejamento:
-      - Ferramentas: planning/tools.md # Substituir pelo arquivo real
-      - Cronograma: planning/roadmap.md # Substituir pelo arquivo real
-      - Rich Picture: planning/richPicture.md
-  - Apresentações:
-      - Entrega 1: presentations/presentation1.md
-
 theme:
   name: material
   logo: img/social.png
+
+  features:
+    - navigation.tabs
+
   icon:
     repo: fontawesome/brands/github
+
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -48,5 +44,5 @@ theme:
       primary: green
       accent: lime
       toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+        icon: material/brightness-7
+        name: Switch to dark mode

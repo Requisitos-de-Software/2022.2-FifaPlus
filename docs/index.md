@@ -3,7 +3,9 @@ hide:
   - footer
 ---
 
-# Requisitos de software - Spotify
+# Inicio
+
+## Requisitos de software - Spotify
 ### UnB 2022/2
 
 <img src="img/Spotify_logo_with_text.svg"/>
