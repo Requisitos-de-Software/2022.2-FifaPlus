@@ -6,6 +6,12 @@ edit_uri: ""
 copyright: UnB - Faculdade do Gama &copy; 2022
 extra_css:
   - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 extra:
   social:
     - link: https://github.com/Requisitos-de-Software/2022.2-Spotify
@@ -20,6 +26,7 @@ nav:
       - Ferramentas: planning/tools.md # Substituir pelo arquivo real
       - Cronograma: planning/roadmap.md # Substituir pelo arquivo real
       - Rich Picture: planning/richPicture.md
+
 theme:
   name: material
   logo: img/social.png
