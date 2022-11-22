@@ -18,6 +18,9 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 |   6    |      Pós-Rastreabilidade       |        Gerência de Desenvolvimento de Software        |  23/01  |    24/01     |
 |   7    |      Conclusão do Projeto      |             Apresentação do Projeto final             |  01/02  |      -       |
 
+**Tabela 1: Cronograma geral das entregas.**
+
+
 ## 3. Heatmap
 
 !!! info "Disponibilidade da equipe"
@@ -27,7 +30,6 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 
 ![Heatmap](../img/heatmap.png)
 
-**Tabela 1: Cronograma geral das entregas.**
 
 ## 4. Tabela de atividades
 
