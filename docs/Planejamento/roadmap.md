@@ -7,7 +7,7 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 
 ## 2. Cronograma de atividade
 
-| Sprint |             Título             |                       Descrição                       | Entrega | Apresentação |
+| Etapas |             Título             |                       Descrição                       | Entrega | Apresentação |
 | :----: | :----------------------------: | :---------------------------------------------------: | :-----: | :----------: |
 |   1    |          Planejamento          | Equipe, Definição do App, Planejamento e Rich Picture |  21/11  |    22/11     |
 |   2    |    Elicitação de Requisitos    |                Técnicas e Priorização                 |  30/11  |    01/12     |
@@ -25,74 +25,111 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 
 !!! info "Disponibilidade da equipe"
 
-    Foi feito um heatmap de disponibilidade de cada membro do time para melhor visualização da alocação de tarefas e datas no cronograma. O heatmap pode ser visualizado abaixo.
+    Foi feito um heatmap de disponibilidade de cada membro do time para melhor visualização da alocação de tarefas e datas no cronograma. O heatmap pode ser visualizado abaixo (Imagem 1).
 
 
 ![Heatmap](../img/heatmap.png)
 
+**Imagem 1: Heatmap.**
 
 ## 4. Tabela de atividades
 
-### 4.1 Sprint 1
+### 4.1 Etapa 1
 
-|  Atividade   |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
-| :----------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
-| GitHub Pages |     Eric Chagas      |     18/11/2022      | Todos os integrantes |     19/11/2022      |
-|   HeatMap    |  Raphaela Guimarães  |     20/11/2022      |    Thiago Borges     |     20/11/2022      |
-| Ferramentas  |    Thiago Borges     |     20/11/2022      |   Rafael Fernandes   |     20/11/2022      |
-| Rich picture |    Thiago Borges     |     20/11/2022      |     Eric Chagas      |     20/11/2022      |
-|   Roadmap    |   Wengel Rodrigues   |     21/11/2022      |     Eric Chagas      |     21/11/2022      |
-| Apresentação | Todos os integrantes |     21/11/2022      | Todos os integrantes |     21/11/2022      |
+|       Atividade     |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
+| :-----------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
+|     GitHub Pages    |     Eric Chagas      |     18/11/2022      | Todos os integrantes |     19/11/2022      |
+|       HeatMap       |  Raphaela Guimarães  |     20/11/2022      |    Thiago Borges     |     20/11/2022      |
+|      Ferramentas    |    Thiago Borges     |     20/11/2022      |   Rafael Fernandes   |     20/11/2022      |
+|     Rich picture    |    Thiago Borges     |     20/11/2022      |     Eric Chagas      |     20/11/2022      |
+|       Roadmap       |   Wengel Rodrigues   |     21/11/2022      |     Eric Chagas      |     21/11/2022      |
+| Gravar Apresentação | Todos os integrantes |     21/11/2022      | Todos os integrantes |     21/11/2022      |
+| Editar Apresentação |     Eric Chagas      |     21/11/2022      |          -           |         -           |
 
-**Tabela 2: Cronograma da Sprint 1.**
 
-### 4.2 Sprint 2
+**Tabela 2: Cronograma da Etapa 1.**
 
-| Atividade | Autor(es) | Data Limite Entrega | Revisor(es) | Data Limite Revisão |
-| :-------: | :-------: | :-----------------: | :---------: | :-----------------: |
-|     -     |     -     |          -          |      -      |          -          |
+### 4.2  Etapa 2
 
-**Tabela 3: Cronograma da Sprint 2.**
+|                    Atividade                    |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
+| :---------------------------------------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
+|               Técnicas planejadas               | Eric Chagas e Wengel |     28/11/2022      |    Thiago Borges     |     29/11/2022      |
+| Execução de técnicas (ser quebrada por técnica) | Todos os integrantes |     28/11/2022      | Todos os integrantes |     29/11/2022      |
+|                   Priorização                   |   Charles e  Rafael  |     28/11/2022      |  Raphaela Guimarães  |     29/11/2022      |
+|            Gravação da apresentação             | Todos os integrantes |     29/11/2022      |          -           |         -           
+|             Edição da apresentação              |   Wengel Rodrigues   |     29/11/2022      |          -           |         -           |
 
-### 4.3 Sprint 3
+**Tabela 3: Cronograma da Etapa 2.**
 
-| Atividade | Autor(es) | Data Limite Entrega | Revisor(es) | Data Limite Revisão |
-| :-------: | :-------: | :-----------------: | :---------: | :-----------------: |
-|     -     |     -     |          -          |      -      |          -          |
+### 4.3 Etapa 3
 
-**Tabela 4: Cronograma da Sprint 3.**
+|         Atividade         |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
+| :-----------------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
+|       Casos de uso        |   Charles e Wengel   |     10/12/2022      |     Eric Chagas      |     11/11/2022      |
+|         Cenários          |  Raphaela Guimarães  |     10/12/2022      |   Wengel Rodrigues   |     11/11/2022      |
+|          Léxico           |    Thiago Borges     |     10/12/2022      |   Rafael Fernandes   |     11/11/2022      |
+| Especificação Suplementar |   Rafael Fernandes   |     10/12/2022      |     Eric Chagas      |     11/11/2022      |
+| Gravação da apresentação  | Todos os integrantes |     11/12/2022      |          -           |         -           |
+|  Edição da apresentação   |   Wengel Rodrigues   |     12/12/2022      |          -           |         -           |
 
-### 4.4 Sprint 4
 
-| Atividade | Autor(es) | Data Limite Entrega | Revisor(es) | Data Limite Revisão |
-| :-------: | :-------: | :-----------------: | :---------: | :-----------------: |
-|     -     |     -     |          -          |      -      |          -          |
+**Tabela 4: Cronograma da Etapa 3.**
 
-**Tabela 5: Cronograma da Sprint 4.**
+### 4.4 Etapa 4
 
-### 4.5 Sprint 5
+|         Atividade        |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
+| :----------------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
+|   Histórias de Usuário   |    Rafael e Wengel   |     02/01/2023      |     Eric Chagas      |     03/01/2023      |
+|         Backlog          |   Charles e  Eric    |     02/01/2023      |    Thiago Borges     |     03/01/2023      |
+|      NFR Framework       |  Raphaela Guimarães  |     02/01/2023      |        Charles       |     03/01/2023      |
+| Gravação da apresentação | Todos os integrantes |     02/01/2023      |          -           |         -           |
+|  Edição da apresentação  |   Wengel Rodrigues   |     03/01/2023      |          -           |         -           |
 
-| Atividade | Autor(es) | Data Limite Entrega | Revisor(es) | Data Limite Revisão |
-| :-------: | :-------: | :-----------------: | :---------: | :-----------------: |
-|     -     |     -     |          -          |      -      |          -          |
 
-**Tabela 6: Cronograma da Sprint 5.**
+**Tabela 5: Cronograma da Etapa 4.**
 
-### 4.6 Sprint 6
+### 4.5 Etapa 5
 
-| Atividade | Autor(es) | Data Limite Entrega | Revisor(es) | Data Limite Revisão |
-| :-------: | :-------: | :-----------------: | :---------: | :-----------------: |
-|     -     |     -     |          -          |      -      |          -          |
+|         Atividade        |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
+| :----------------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
+|    Avaliação Grupo X     | Todos os integrantes |     07/01/2023      | Todos os integrantes |     08/01/2023      |
 
-**Tabela 7: Cronograma da Sprint 6.**
 
-### 4.7 Sprint 7
 
-| Atividade | Autor(es) | Data Limite Entrega | Revisor(es) | Data Limite Revisão |
-| :-------: | :-------: | :-----------------: | :---------: | :-----------------: |
-|     -     |     -     |          -          |      -      |          -          |
+**Tabela 6: Cronograma da Etapa 5.**
 
-**Tabela 8: Cronograma da Sprint 7.**
+### 4.6 Etapa 6
+
+|         Atividade          |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
+| :------------------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
+| Verificação dos requisitos |   Charles e Rafael   |     13/01/2023      |  Raphaela Guimarães  |     14/01/2023      |
+|  Validação dos requisitos  |    Thiago e Wengel   |     13/01/2023      |     Eric Chagas      |     14/01/2023      |
+|  Gravação da apresentação  | Todos os integrantes |     14/01/2023      |          -           |         -           |
+|   Edição da apresentação   |   Wengel Rodrigues   |     15/01/2023      |          -           |         -           |
+
+**Tabela 7: Cronograma da Etapa 6.**
+
+### 4.7 Etapa 7
+
+|                 Atividade                  |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
+| :----------------------------------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
+| Seção de Pós-Rastreabilidade (doc inicial) | Eric Chagas e Wengel |     20/01/2023      |  Raphaela Guimarães  |     21/01/2023      |
+|               Backward From                |  Raphael e Raphaela  |     20/01/2023      |     Eric Chagas      |     21/01/2023      |
+|                Forward From                |    Thiago e Charles  |     20/01/2023      |     Eric Chagas      |     21/01/2023      |
+|          Gravação da apresentação          | Todos os integrantes |     21/01/2023      |          -           |         -           |
+|           Edição da apresentação           |   Wengel Rodrigues   |     22/01/2023      |          -           |         -           |
+
+**Tabela 8: Cronograma da Etapa 7.**
+
+### 4.8 Etapa 8
+|                   Atividade                   |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
+| :-------------------------------------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
+|   Planejamento de verificação dos artefatos   |          -           |     29/01/2023      |          -           |     30/01/2023      |
+| Relato da verificação dos artefatos e ajustes |          -           |     29/01/2023      |          -           |     30/01/2023      |
+|           Gravação da apresentação            | Todos os integrantes |     30/01/2023      |          -           |         -           |
+|            Edição da apresentação             |   Wengel Rodrigues   |     31/01/2023      |          -           |         -           |
+
+**Tabela 9: Cronograma da Etapa 8.**
 
 
 
@@ -110,3 +147,4 @@ Entregas do Projeto de Requisitos. Disponível em: <https://aprender3.unb.br/cou
 | :--------: | :----: | :-------------------------------------: | :-------------------------------------: |
 | 21/11/2022 |  1.0   | Versão inicial do cronograma do projeto |            Wengel Rodrigues             |
 | 21/11/2022 |  1.1   |          Adicionado o Heatmap           | Raphaela Guimarães de Araújo dos Santos |
+| 26/11/2022 |  1.2   | Inclusão das outras etapas |            Wengel Rodrigues             |
