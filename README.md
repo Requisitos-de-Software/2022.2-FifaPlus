@@ -6,11 +6,11 @@
 </div>
 
 ## Objetivo
-Esse projeto tem o objetivo de utilizar as técnicas e ferramentas expostas pela disciplina de Requisitos de Software do curso de Engenharia de Software da UnB FGA, para analisar e documentar os Requisitos do aplicativo de streaming de música [Spotify](https://spotify.com).
+Esse projeto tem o objetivo de utilizar as técnicas e ferramentas expostas pela disciplina de Requisitos de Software do curso de Engenharia de Software da UnB FGA, para analisar e documentar os Requisitos do aplicativo de streaming de futebol [Fifa+].
 
 ## Página do Projeto
 
-- https://requisitos-de-software.github.io/2022.2-Spotify
+- https://requisitos-de-software.github.io/2022.2-Fifa-Plus
 
 ## Equipe
 | Foto                                                             | Membro                                  | Github                                                   |
