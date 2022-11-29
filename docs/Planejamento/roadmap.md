@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Com base nos prazos estipulados pela disciplida, este documento apresenta o cronograma geral das atividades e o cronograma de cada ponto de controle, com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
+Com base nos prazos estipulados pela disciplida, este documento apresenta o cronograma geral das atividades (Tabela 1) e o cronograma de cada ponto de controle, com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
 
 
 ## 2. Cronograma de atividade
@@ -143,8 +143,9 @@ Entregas do Projeto de Requisitos. Disponível em: <https://aprender3.unb.br/cou
 
 ## Histórico de versão do arquivo
 
-|    Data    | Versão |                Descrição                |                  Autor                  |
-| :--------: | :----: | :-------------------------------------: | :-------------------------------------: |
-| 21/11/2022 |  1.0   | Versão inicial do cronograma do projeto |            Wengel Rodrigues             |
-| 21/11/2022 |  1.1   |          Adicionado o Heatmap           | Raphaela Guimarães de Araújo dos Santos |
-| 26/11/2022 |  1.2   | Inclusão das outras etapas |            Wengel Rodrigues             |
+|    Data    | Versão |                Descrição                |                  Autor(es)              | Revisor(es) |
+| :--------: | :----: | :-------------------------------------: | :-------------------------------------: | ----------- |
+| 21/11/2022 |  1.0   | Versão inicial do cronograma do projeto |            Wengel Rodrigues             |    Wengel   |
+| 21/11/2022 |  1.1   |          Adicionado o Heatmap           | Raphaela Guimarães de Araújo dos Santos |     Eric    |
+| 26/11/2022 |  1.2   |          Inclusão das outras etapas     |            Wengel Rodrigues             |    Wengel   |
+| 29/11/2022 |  1.3   |          Ajustes no cronograma          |            Wengel Rodrigues             |    Thiago   |

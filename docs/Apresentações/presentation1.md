@@ -10,6 +10,6 @@
 
 ## Histórico de Versões
 
-|    Data    | Versão |           Descrição           |        Autor(es)        |
-| :--------: | :----: | :---------------------------: | :---------------------: |
-| 21/11/2022 |  1.0   | Adicionada a primeira entrega | Eric Chagas de Oliveira |
+|    Data    | Versão |           Descrição           |        Autor(es)        | Revisor(es) |
+| :--------: | :----: | :---------------------------: | :---------------------: | :---------: |
+| 21/11/2022 |  1.0   | Adicionada a primeira entrega | Eric Chagas de Oliveira |    Thiago   |
