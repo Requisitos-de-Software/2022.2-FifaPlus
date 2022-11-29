@@ -10,7 +10,7 @@ Esse projeto tem o objetivo de utilizar as técnicas e ferramentas expostas pela
 
 ## Página do Projeto
 
-- https://requisitos-de-software.github.io/2022.2-Fifa-Plus
+- https://requisitos-de-software.github.io/2022.2-FifaPlus
 
 ## Equipe
 | Foto                                                             | Membro                                  | Github                                                   |
