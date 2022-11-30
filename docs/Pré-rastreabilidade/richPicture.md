@@ -14,6 +14,7 @@ O Rich Picture é um desenho que ilustra os principais elementos e relacionament
     O objetivo desse documento é introduzir todos os interessados no projeto o escopo desse trabalho, de forma informal e de fácil entendimento. O tema escolhido foi o aplicativo chamado FIFA+, que visa informar toceadores e entusiastas do futebol a ficarem antenados das noticias da copa do mundo no Qatar em 2022.
     Visando ajudar os interessados a compreender os principais atores, ações, os dados necessários e o escopo do aplicativo (Tabela 1), foi desenvolvido este Rich Picture.
     Para a criação do rich picture foi utilizado o criador de dissing Canvas.
+</p>
 
 | Componente | Definição |
 | :--------: | :-------: |
@@ -22,7 +23,7 @@ O Rich Picture é um desenho que ilustra os principais elementos e relacionament
 | Tabelas | As tabelas são os conjuntos de dados de determinada entidade que será utilizada no sistema. Essas tabelas auxiliam na identificação de alguns dos dados que será necessário utilizar. São geralmente representado por retângulos. |
 | Setas | As setas são os fluxos de informações que ocorrem no sistema. Podem ser ações realizadas, podem ser dados que vão de um módulo para outro. São representados por setas. |
 | Bordas do sistema | As bordas do sistema são delimitações da atuação do próprio sistema. O sistema possui um conjunto de operações, tabelas e fluxos, que potencialmente interage com outros sistemas e atores. As bordas servem para delimitar até onde é interno do sistema e onde é externo ao sistema. São geralmente representados por um "núvem" que envolve tudo que o sistema faz. |
-</p>
+
 
 ###### Tabela 1 - Legenda do Rich Picture FIFA+ (aplicativo inicial do projeto). Fonte: Autoria própria.
 
