@@ -30,4 +30,4 @@
 ## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 25/06/2022 | Criação da primeira versão do documento com as primeiras ferramentas ultilizadas, logo e função. | <a href="https://github.com/Thiago-Cerq">@Thiago-Cerq</a> | <a href="https://github.com/Thiago-Cerq">@Thiago-Cerq</a>
+| 1.0    | 25/06/2022 | Criação da primeira versão do documento com as primeiras ferramentas ultilizadas, logo e função. | Thiago Borges | Thiago Borges |
