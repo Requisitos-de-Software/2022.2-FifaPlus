@@ -25,7 +25,7 @@
 
 #### Storyboard 2 
   
-</br>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-FifaPlus/main/docs/img/ST02.png" width="700px" height="200px">
 </div>
@@ -37,7 +37,7 @@
 
 #### Storyboard 3 
   
-<br>
+
 <div align="center">
  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-FifaPlus/main/docs/img/ST03.png" width="700px" height="200px">
 </div>
