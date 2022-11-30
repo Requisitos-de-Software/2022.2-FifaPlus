@@ -20,7 +20,7 @@
 
 |    Data    | Versão |                     Descrição                     |        Autor(es)        | Revisor(es) |
 | :--------: | :----: | :-----------------------------------------------: | :---------------------: | :---------: |
-| 30/11/2022 |  1.0   |           Adicionada a segunda entrega            |     Wengel Rodrigues    |   Thiago    |
+| 30/11/2022 |  1.0   |           Adicionada a segunda entrega            |     Wengel Rodrigues    |     Eric    |
 
 
 ###### Tabela 1 - Histórico de versões. Fonte: Autoria própria.
