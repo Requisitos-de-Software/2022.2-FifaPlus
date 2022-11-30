@@ -1,12 +1,12 @@
 
-# Projeto da disciplina de Requisitos de software - Spotify
+# Projeto da disciplina de Requisitos de software - FIFA PLUS
 ### UnB 2022/2
 <div align="center">
-<img src="docs/assets/img/spotify-logoLight.png"/>
+<img src="docs/img/fifa-plus.jpg"/>
 </div>
 
 ## Objetivo
-Esse projeto tem o objetivo de utilizar as técnicas e ferramentas expostas pela disciplina de Requisitos de Software do curso de Engenharia de Software da UnB FGA, para analisar e documentar os Requisitos do aplicativo de streaming de futebol [Fifa+].
+Esse projeto tem o objetivo de utilizar as técnicas e ferramentas expostas pela disciplina de Requisitos de Software do curso de Engenharia de Software da UnB FGA, para analisar e documentar os Requisitos do aplicativo de streaming de futebol [Fifa+](https://www.fifa.com/fifaplus).
 
 ## Página do Projeto
 
@@ -15,6 +15,7 @@ Esse projeto tem o objetivo de utilizar as técnicas e ferramentas expostas pela
 ## Equipe
 | Foto                                                             | Membro                                  | Github                                                   |
 | ---------------------------------------------------------------- | --------------------------------------- | -------------------------------------------------------- |
+| <img src="https://github.com/charles-serafim.png" width="200"/>  | Charles Manrique Serafim Morais         | [@charles-serafim](https://github.com/charles-serafim)   |
 | <img src="https://github.com/Eric-chagas.png" width="200"/>      | Eric Chagas de Oliveira                 | [@Eric-chagas](https://github.com/Eric-chagas)           |
 | <img src="https://github.com/Rafael-gc.png" width="200"/>        | Rafael Fernandes Amancio                | [@Rafael-gc](https://github.com/Rafael-gc)               |
 | <img src="https://github.com/raphaiela.png" width="200"/>        | Raphaela Guimarães de Araújo dos Santos | [@raphaiela](https://github.com/raphaiela)               |
