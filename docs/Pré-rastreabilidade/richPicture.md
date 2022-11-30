@@ -1,3 +1,5 @@
+<a name="ancora"></a>
+
 # RichPicture
 
 ## 1. Introdução
@@ -10,11 +12,10 @@ O Rich Picture é um desenho que ilustra os principais elementos e relacionament
 </br>
 
 ## 2. Objetivo
-<p align="justify">
-    O objetivo desse documento é introduzir todos os interessados no projeto o escopo desse trabalho, de forma informal e de fácil entendimento. O tema escolhido foi o aplicativo chamado FIFA+, que visa informar toceadores e entusiastas do futebol a ficarem antenados das noticias da copa do mundo no Qatar em 2022.
-    Visando ajudar os interessados a compreender os principais atores, ações, os dados necessários e o escopo do aplicativo (Tabela 1), foi desenvolvido este Rich Picture.
-    Para a criação do rich picture foi utilizado o criador de dissing Canvas (Figura 1) e sua legenda (Figura 2).
-</p>
+
+O objetivo desse documento é introduzir todos os interessados no projeto o escopo desse trabalho, de forma informal e de fácil entendimento. O tema escolhido foi o aplicativo chamado FIFA+, que visa informar toceadores e entusiastas do futebol a ficarem antenados das noticias da copa do mundo no Qatar em 2022.
+Visando ajudar os interessados a compreender os principais atores, ações, os dados necessários e o escopo do aplicativo (Tabela 1), foi desenvolvido este Rich Picture.
+Para a criação do rich picture foi utilizado o criador de dissing Canvas (Figura 1) e sua legenda (Figura 2). [¹](#ancora1)  
 
 | Componente | Definição |
 | :--------: | :-------: |
@@ -25,7 +26,7 @@ O Rich Picture é um desenho que ilustra os principais elementos e relacionament
 | Bordas do sistema | As bordas do sistema são delimitações da atuação do próprio sistema. O sistema possui um conjunto de operações, tabelas e fluxos, que potencialmente interage com outros sistemas e atores. As bordas servem para delimitar até onde é interno do sistema e onde é externo ao sistema. São geralmente representados por um "núvem" que envolve tudo que o sistema faz. |
 
 
-###### Tabela 1 - Legenda do Rich Picture FIFA+ (aplicativo inicial do projeto). Fonte: Autoria própria.
+###### Tabela 1 - Significado de cada item da Legenda. Fonte: Introducing Rich Pictures.[²](#ancora2)
 
 
 ## 3. Rich Picture
@@ -44,7 +45,12 @@ O Rich Picture é um desenho que ilustra os principais elementos e relacionament
 ###### Figura 2 - Legenda do Rich Picture FIFA+ (aplicativo inicial do projeto). Fonte: Autoria própria.
 
 
-## 2. Histórico de Versões
+## 4. Referências
+> <a id="ancora1"></a> [1] - SERRANO, Maurício; SERRANO, Milene;
+
+> <a id="ancora2"></a> [2] Introducing Rich Pictures - Rich Picture Drawing Guidelines - Acesso em: 30 nov. 2022. 
+
+## 5. Histórico de Versões
 
 |    Data    | Versão |                           Descrição                            |        Autor(es)        | Revisor(es) |
 | :--------: | :----: | :------------------------------------------------------------: | :---------------------: | :---------: |

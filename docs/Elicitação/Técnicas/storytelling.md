@@ -51,9 +51,9 @@ Com caráter persuasivo, o principal objetivo do uso de storytelling é não som
 
 | ID LOCAL| Requisitos elicitados | Tipo de requisito |
 |:--:|:--:|:--:|
-|ST01| A pessoa física usuária do aplicativo deve conseguir obter informações e acompanhar o resultado dos jogos em tempo real. | RNF |
-|ST02| A pessoa física usuária do aplicativo deve conseguir obter notícias sobre seus jogadores favoritos.  | RNF |
-|ST03| A pessoa física usuária do aplicativo deve conseguir obter informações sobre o calendário de jogos | RNF |
+|ST01| A pessoa física usuária do aplicativo deve conseguir obter informações e acompanhar o resultado dos jogos em tempo real (Figura 1). | RNF |
+|ST02| A pessoa física usuária do aplicativo deve conseguir obter notícias sobre seus jogadores favoritos (Figura 2).  | RNF |
+|ST03| A pessoa física usuária do aplicativo deve conseguir obter informações sobre o calendário de jogos (Figura 3). | RNF |
 
 ## Referências
 > <a id="ancora1"></a> [1] - SERRANO, Maurício; SERRANO, Milene;
