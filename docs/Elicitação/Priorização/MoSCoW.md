@@ -13,15 +13,15 @@
 
 &emsp;&emsp;Nesse sentido, a ordem de importância das tarefas vai seguindo uma ordem decrescente, onde Must Have são as mais relevantes e as Won’t Have as que podem ficar para depois.
 
-## 3. Participantes
+## 2. Participantes
 
 - Rafael Fernandes
 - Eric Chagas
 
-## 4. Resultados
+## 3. Resultados
 &emsp;&emsp;O resultado desse método pode ser visto nas tabelas a seguir (Tabela 1 e Tabela 2):
 
-## 4.1 Requisitos Funcionais
+## 3.1 Requisitos Funcionais
 
 |Requisitos Funcionais                                          |          MoSCoW                        |       
 |---------------------------------------------------------------|----------------------------------------|
@@ -39,7 +39,7 @@
 ###### Tabela 1: Resultado do método MoSCoW (requisitos funcionais). Fonte: Autoria própria.
 
 
-### 4.2 Requisitos Não Funcionais
+### 3.2 Requisitos Não Funcionais
 
 |            Requisitos Não Funcionais                |      MoSCoW    |
 |-----------------------------------------------------|----------------|
@@ -48,11 +48,11 @@
 
 ###### Tabela 2: Resultado do método MoSCoW (requisitos não funcionais). Fonte: Autoria própria.
 
-## 5. Referência bibliográfica
+## 4. Referência bibliográfica
 
 > - Técnica MoSCoW. **Sites Google**. Disponível em: https://rockcontent.com/br/blog/metodo-moscow/
 
-## 6. Histórico de versão
+## 5. Histórico de versão
 
 |    Data    | Versão |                     Descrição                     |        Autor(es)        | Revisor(es) |
 | :--------: | :----: | :-----------------------------------------------: | :---------------------: | :---------: |
