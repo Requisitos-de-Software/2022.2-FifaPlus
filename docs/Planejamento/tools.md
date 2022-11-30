@@ -28,6 +28,6 @@
 
 
 ## 4. Histórico de Versão
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 25/06/2022 | Criação da primeira versão do documento com as primeiras ferramentas ultilizadas, logo e função. | Thiago Borges | Thiago Borges |
+|    Data    | Versão | Descrição | Autor(es) | Revisor(es) |
+| :--------: | :----: | :-------: | :-------: | :---------: |
+| 21/11/2022 | 1.0    | Criação da primeira versão do documento com as primeiras ferramentas ultilizadas, logo e função. | Thiago Borges | Thiago Borges |
