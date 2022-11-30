@@ -24,15 +24,15 @@
 
     ### Tarefas
 
-        |                               **Tarefa**                               |   **Responsável**  |
-        | ---------------------------------------------------------------------- | ------------------ |
-        | Iniciar o Github Pages do repositório                                  | Eric Chagas        |
-        | Fazer a versão inicial da Rich picture do aplicativo                   | Thiago Cerqueira   |
-        | Fazer heatmap de disponibilidade da equipe                             | Raphaela Guimarães |
-        | Ferramentas do projeto                                                 | Thiago Cerqueira   |
-        | Cronograma de atividades                                               | Wengel Rodrigues   |
-        | Conteúdo inicial do github pages                                       | Eric Chagas        |
-        | Adicionar fluxo de CI                                                  | Eric Chagas        |
+    |                               **Tarefa**                               |   **Responsável**  |
+    | ---------------------------------------------------------------------- | ------------------ |
+    | Iniciar o Github Pages do repositório                                  | Eric Chagas        |
+    | Fazer a versão inicial da Rich picture do aplicativo                   | Thiago Cerqueira   |
+    | Fazer heatmap de disponibilidade da equipe                             | Raphaela Guimarães |
+    | Ferramentas do projeto                                                 | Thiago Cerqueira   |
+    | Cronograma de atividades                                               | Wengel Rodrigues   |
+    | Conteúdo inicial do github pages                                       | Eric Chagas        |
+    | Adicionar fluxo de CI                                                  | Eric Chagas        |
 
     ###### Tabela 1 - Atividades definidas. Fonte: Autoria própria
 
