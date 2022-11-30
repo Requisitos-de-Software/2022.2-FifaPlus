@@ -22,9 +22,10 @@ O Rich Picture é um desenho que ilustra os principais elementos e relacionament
 | Tabelas | As tabelas são os conjuntos de dados de determinada entidade que será utilizada no sistema. Essas tabelas auxiliam na identificação de alguns dos dados que será necessário utilizar. São geralmente representado por retângulos. |
 | Setas | As setas são os fluxos de informações que ocorrem no sistema. Podem ser ações realizadas, podem ser dados que vão de um módulo para outro. São representados por setas. |
 | Bordas do sistema | As bordas do sistema são delimitações da atuação do próprio sistema. O sistema possui um conjunto de operações, tabelas e fluxos, que potencialmente interage com outros sistemas e atores. As bordas servem para delimitar até onde é interno do sistema e onde é externo ao sistema. São geralmente representados por um "núvem" que envolve tudo que o sistema faz. |
+</p>
 
 ###### Tabela 1 - Legenda do Rich Picture FIFA+ (aplicativo inicial do projeto). Fonte: Autoria própria.
-</p>
+
 
 ## 3. Rich Picture
 
@@ -37,10 +38,9 @@ O Rich Picture é um desenho que ilustra os principais elementos e relacionament
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-FifaPlus/main/docs/img/Legenda.png" width="500">  
-
-###### Figura 2 - Legenda do Rich Picture FIFA+ (aplicativo inicial do projeto). Fonte: Autoria própria.
 </p>
 
+###### Figura 2 - Legenda do Rich Picture FIFA+ (aplicativo inicial do projeto). Fonte: Autoria própria.
 
 
 ## 2. Histórico de Versões
@@ -48,6 +48,7 @@ O Rich Picture é um desenho que ilustra os principais elementos e relacionament
 |    Data    | Versão |                           Descrição                            |        Autor(es)        | Revisor(es) |
 | :--------: | :----: | :------------------------------------------------------------: | :---------------------: | :---------: |
 | 10/11/2022 |  1.0   | Realizado primeiro rascunho do RichPicture sobre a visão geral | Thiago Cerqueira Borges |     Eric    |
-| 10/11/2022 |  2.0   | Refazendo RichPicture do novo app                              | Thiago Cerqueira Borges |     Eric    |
+| 29/11/2022 |  2.0   | Refazendo RichPicture do novo app                              | Thiago Cerqueira Borges |     Eric    |
+| 29/11/2022 |  2.1   | Concertando formatação                             | Thiago Cerqueira Borges |     Eric    |
 
 ###### Tabela 2 - Histórico de versões. Fonte: Autoria própria.
