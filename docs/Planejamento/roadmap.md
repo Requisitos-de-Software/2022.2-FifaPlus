@@ -56,7 +56,7 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 |               Técnicas planejadas               | Eric Chagas e Wengel |     28/11/2022      |    Thiago Borges     |     29/11/2022      |
 | Execução de técnicas (ser quebrada por técnica) | Todos os integrantes |     28/11/2022      | Todos os integrantes |     29/11/2022      |
 |                   Priorização                   |   Charles e  Rafael  |     28/11/2022      |  Raphaela Guimarães  |     29/11/2022      |
-|            Gravação da apresentação             | Todos os integrantes |     29/11/2022      |          -           |         -           
+|            Gravação da apresentação             | Todos os integrantes |     29/11/2022      |          -           |         -           |
 |             Edição da apresentação              |   Wengel Rodrigues   |     29/11/2022      |          -           |         -           |
 
 ###### Tabela 3: Cronograma da Etapa 2. Fonte: Autoria própria.

@@ -20,6 +20,8 @@ Na tabela 1 podemos ver o que foi realizado na Etapa 1.
 ###### Tabela 1: Itens realizados na Etapa 1.. Fonte: Autoria própria.
 
 
+
+
 ## 9. Referências
 
 SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2307416/mod_resource/content/22/Plano_de_Ensino%20RE%20202202%20Turma%202.pdf>. Acesso em: 16 de novembro de 2022;
