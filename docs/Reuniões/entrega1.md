@@ -9,15 +9,35 @@
 
 
 
-=== "Ata da Reunião 1"
+=== "Ata da Reunião 1 - 16/11/2022"
           
-      | **Data** | **Duração** | **Participantes** |
-      | -------- | ----------- | ----------------- |
-      |          |             |                   |
-    
-    ###### Tabela 1 - reunião 1 da entrega 1. Fonte: Autoria própria
+    ### Participantes:
+    - Eric Chagas
+    - Thiago Cerqueira
+    - Wengel Rodrigues
 
-    ### Assunto
+    ### Início e Término
+    A reunião iniciou-se às 19:20 e foi até as 20:00, tendo uma duração de quarenta minutos.
+
+    ### Objetivos
+    A primeira reunião teve por objetivos iniciar as discussões sobre a escolha do aplicativo a ser trabalhado na disciplina, assim como conversar sobre a organização interna da equipe e também iniciar as primeiras tasks, baseadas no definido para a Entrega 1 da disciplina.
+
+    ### Tarefas
+
+        |                               **Tarefa**                               |   **Responsável**  |
+        | ---------------------------------------------------------------------- | ------------------ |
+        | Iniciar o Github Pages do repositório                                  | Eric Chagas        |
+        | Fazer a versão inicial da Rich picture do aplicativo                   | Thiago Cerqueira   |
+        | Fazer heatmap de disponibilidade da equipe                             | Raphaela Guimarães |
+        | Ferramentas do projeto                                                 | Thiago Cerqueira   |
+        | Cronograma de atividades                                               | Wengel Rodrigues   |
+        | Conteúdo inicial do github pages                                       | Eric Chagas        |
+        | Adicionar fluxo de CI                                                  | Eric Chagas        |
+
+    ###### Tabela 1 - Atividades definidas. Fonte: Autoria própria
+
+    ### Conclusão
+    Foi definido que o aplicativo a ser escolhido seria analisado juntamente aos demais participantes do grupo, a partir dos que foram analisados individualmente na fase anterior. As tarefas foram deifnidas e divididas entre os membros da equipe.
 
     ### Vídeo da reunião
 
@@ -34,6 +54,7 @@
 |    Data    | Versão |              Descrição               |        Autor(es)        |   Revisor(es)    |
 | :--------: | :----: | :----------------------------------: | :---------------------: | :--------------: |
 | 23/11/2022 |  1.0   | Criação da página e conteúdo inicial | Eric Chagas de Oliveira | Rafael e Charles |
+| 29/11/2022 |  1.1   | Adição do conteúdo da reunião (ata)  | Charles Serafim Morais  | Rafael Fernandes |
 
 
 ###### Tabela 2 - Histórico de versões. Fonte: Autoria própria
