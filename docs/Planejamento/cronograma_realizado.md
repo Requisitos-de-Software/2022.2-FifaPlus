@@ -17,7 +17,8 @@ Na tabela 1 podemos ver o que foi realizado na Etapa 1.
 |       Rich Picture       | 20/11/2022 | 21/11/2022 |    Thiago Borges     |           Eric Chagas         |
 | Gravação da apresentação | 21/11/2022 |     -      |     Eric Chagas      |               -               |
 
-**Tabela 1: Itens realizados na Etapa 1. Fonte: Criado pelo autor.**
+###### Tabela 1: Itens realizados na Etapa 1.. Fonte: Autoria própria.
+
 
 ## 9. Referências
 
@@ -28,3 +29,5 @@ SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://ap
 |    Data    | Versão |                Descrição                | Autor            | Revisor(es) |
 | :--------: | :----: | :-------------------------------------: | :--------------- | :---------: |
 | 29/11/2022 |  1.0   | Versão inicial do cronograma do projeto | Wengel Rodrigues |      -      |
+
+###### Tabela 2 - Histórico de versões. Fonte: Autoria própria.

@@ -18,7 +18,7 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 |   6    |      Pós-Rastreabilidade       |        Gerência de Desenvolvimento de Software        |  23/01  |    24/01     |
 |   7    |      Conclusão do Projeto      |             Apresentação do Projeto final             |  01/02  |      -       |
 
-**Tabela 1: Cronograma geral das entregas.**
+###### Tabela 1: Cronograma geral das entregas. Fonte: Autoria própria.
 
 
 ## 3. Heatmap
@@ -30,7 +30,7 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 
 ![Heatmap](../img/heatmap.png)
 
-**Imagem 1: Heatmap.**
+###### Imagem 1: Heatmap. Fonte: Autoria própria.
 
 ## 4. Tabela de atividades
 
@@ -47,7 +47,7 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 | Editar Apresentação |     Eric Chagas      |     21/11/2022      |          -           |         -           |
 
 
-**Tabela 2: Cronograma da Etapa 1.**
+###### Tabela 2: Cronograma da Etapa 1. Fonte: Autoria própria.
 
 ### 4.2  Etapa 2
 
@@ -59,7 +59,7 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 |            Gravação da apresentação             | Todos os integrantes |     29/11/2022      |          -           |         -           
 |             Edição da apresentação              |   Wengel Rodrigues   |     29/11/2022      |          -           |         -           |
 
-**Tabela 3: Cronograma da Etapa 2.**
+###### Tabela 3: Cronograma da Etapa 2. Fonte: Autoria própria.
 
 ### 4.3 Etapa 3
 
@@ -73,7 +73,7 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 |  Edição da apresentação   |   Wengel Rodrigues   |     12/12/2022      |          -           |         -           |
 
 
-**Tabela 4: Cronograma da Etapa 3.**
+###### Tabela 4: Cronograma da Etapa 3. Fonte: Autoria própria.
 
 ### 4.4 Etapa 4
 
@@ -86,7 +86,7 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 |  Edição da apresentação  |   Wengel Rodrigues   |     03/01/2023      |          -           |         -           |
 
 
-**Tabela 5: Cronograma da Etapa 4.**
+###### Tabela 5: Cronograma da Etapa 4. Fonte: Autoria própria.
 
 ### 4.5 Etapa 5
 
@@ -96,7 +96,7 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 
 
 
-**Tabela 6: Cronograma da Etapa 5.**
+###### Tabela 6: Cronograma da Etapa 5. Fonte: Autoria própria.
 
 ### 4.6 Etapa 6
 
@@ -107,7 +107,7 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 |  Gravação da apresentação  | Todos os integrantes |     14/01/2023      |          -           |         -           |
 |   Edição da apresentação   |   Wengel Rodrigues   |     15/01/2023      |          -           |         -           |
 
-**Tabela 7: Cronograma da Etapa 6.**
+###### Tabela 7: Cronograma da Etapa 6. Fonte: Autoria própria.
 
 ### 4.7 Etapa 7
 
@@ -119,7 +119,7 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 |          Gravação da apresentação          | Todos os integrantes |     21/01/2023      |          -           |         -           |
 |           Edição da apresentação           |   Wengel Rodrigues   |     22/01/2023      |          -           |         -           |
 
-**Tabela 8: Cronograma da Etapa 7.**
+###### Tabela 8: Cronograma da Etapa 7. Fonte: Autoria própria.
 
 ### 4.8 Etapa 8
 |                   Atividade                   |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
@@ -129,7 +129,7 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 |           Gravação da apresentação            | Todos os integrantes |     30/01/2023      |          -           |         -           |
 |            Edição da apresentação             |   Wengel Rodrigues   |     31/01/2023      |          -           |         -           |
 
-**Tabela 9: Cronograma da Etapa 8.**
+###### Tabela 9: Cronograma da Etapa 8. Fonte: Autoria própria.
 
 
 
@@ -149,3 +149,5 @@ Entregas do Projeto de Requisitos. Disponível em: <https://aprender3.unb.br/cou
 | 21/11/2022 |  1.1   |          Adicionado o Heatmap           | Raphaela Guimarães de Araújo dos Santos |     Eric    |
 | 26/11/2022 |  1.2   |          Inclusão das outras etapas     |            Wengel Rodrigues             |    Wengel   |
 | 29/11/2022 |  1.3   |          Ajustes no cronograma          |            Wengel Rodrigues             |    Thiago   |
+
+###### Tabela 10 - Histórico de versões. Fonte: Autoria própria.

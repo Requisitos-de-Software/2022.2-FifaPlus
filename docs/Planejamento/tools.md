@@ -16,6 +16,7 @@
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-Spotify/main/docs/img/logo-youtube.png" width="128" height="128"/> | Youtube | Hospedagem dos vídeos das apresentações. |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-Spotify/main/docs/img/spotify-logoLight.png" width="128" height="128"/> | Spotify | Aplicativo escolhido para realização do projeto. |
 
+###### Tabela 1 - Ferramentas. Fonte: Autoria própria.
 
 
 ## 3. Referências
@@ -31,3 +32,5 @@
 |    Data    | Versão | Descrição | Autor(es) | Revisor(es) |
 | :--------: | :----: | :-------: | :-------: | :---------: |
 | 21/11/2022 | 1.0    | Criação da primeira versão do documento com as primeiras ferramentas ultilizadas, logo e função. | Thiago Borges | Thiago Borges |
+
+###### Tabela 2 - Histórico de versões. Fonte: Autoria própria.

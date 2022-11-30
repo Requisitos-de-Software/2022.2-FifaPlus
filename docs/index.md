@@ -11,11 +11,11 @@ hide:
 
 <img src="img/fifa-plus.jpg"/>
 
-###### Figura 01 - Fifa plus. Fonte: https://www.fifa.com/fifaplus
+###### Figura 1 - Fifa plus. Fonte: https://www.fifa.com/fifaplus
 
 ## 1. Objetivo
 
-Esse projeto tem o objetivo de utilizar as técnicas e ferramentas expostas pela disciplina de Requisitos de Software do curso de Engenharia de Software da UnB FGA, para analisar e documentar os Requisitos do aplicativo de streaming e de informações sobre os jogos da copa do mundo de 2022, o [FIFA PLUS](<https://www.fifa.com/fifaplus>).
+Esse projeto tem o objetivo de utilizar as técnicas e ferramentas expostas pela disciplina de Requisitos de Software do curso de Engenharia de Software da UnB FGA, para analisar e documentar os Requisitos do aplicativo de streaming e de informações sobre os jogos da copa do mundo de 2022, o [FIFA PLUS](https://www.fifa.com/fifaplus).
 
 ## 2. Sobre o FIFA+
 
@@ -37,12 +37,20 @@ Completamente grátis, o FIFA+ está disponível para baixar tanto para disposit
 | <img src="https://github.com/Thiago-Cerq.png" width="200"/>      | Thiago Cerqueira Borges                 | [@Thiago-Cerq](https://github.com/Thiago-Cerq)           |
 | <img src="https://github.com/Wengel-Rodrigues.png" width="200"/> | Wengel Rodrigues Farias                 | [@Wengel-Rodrigues](https://github.com/Wengel-Rodrigues) |
 
-###### Tabela 01 - Equipe. Fonte: Autoria própria.
+###### Tabela 1 - Equipe. Fonte: Autoria própria.
 
-## 5. Histórico de Versões
+## 5. Referências
 
-|    Data    | Versão |                         Descrição                         |        Autor(es)        |
-| :--------: | :----: | :-------------------------------------------------------: | :---------------------: |
-| 19/11/2022 |  1.0   | Adicionado o conteúdo inicial acerca do projeto e do time | Eric Chagas de Oliveira |
+> - FIFA PLUS. Fifa.com. Acesso em Novembro 30, 2022, from https://www.fifa.com/fifaplus/pt/articles/sobre-fifa-conteudo-original-jogos-ao-vivo-resultados-arquivo-copa-do-mundo-breaking-news
 
-###### Tabela 02 - Histórico de versões. Fonte: Autoria própria.
+
+
+
+## 6. Histórico de Versões
+
+|    Data    | Versão |                         Descrição                         |        Autor(es)        | Revisor(es) |
+| :--------: | :----: | :-------------------------------------------------------: | :---------------------: | :---------: |
+| 19/11/2022 |  1.0   | Adicionado o conteúdo inicial acerca do projeto e do time | Eric Chagas de Oliveira |   Thiago    |
+| 29/11/2022 |  1.1   |       Conteúdo e site ajustados ao novo aplicativo        | Eric Chagas de Oliveira |   Thiago    |
+
+###### Tabela 2 - Histórico de versões. Fonte: Autoria própria.
