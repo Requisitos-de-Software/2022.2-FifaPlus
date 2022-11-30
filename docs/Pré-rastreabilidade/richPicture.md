@@ -13,7 +13,7 @@ O Rich Picture é um desenho que ilustra os principais elementos e relacionament
 <p align="justify">
     O objetivo desse documento é introduzir todos os interessados no projeto o escopo desse trabalho, de forma informal e de fácil entendimento. O tema escolhido foi o aplicativo chamado FIFA+, que visa informar toceadores e entusiastas do futebol a ficarem antenados das noticias da copa do mundo no Qatar em 2022.
     Visando ajudar os interessados a compreender os principais atores, ações, os dados necessários e o escopo do aplicativo (Tabela 1), foi desenvolvido este Rich Picture.
-    Para a criação do rich picture foi utilizado o criador de dissing Canvas.
+    Para a criação do rich picture foi utilizado o criador de dissing Canvas (Figura 1) e sua legenda (Figura 2).
 </p>
 
 | Componente | Definição |

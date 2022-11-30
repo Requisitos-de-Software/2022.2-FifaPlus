@@ -49,9 +49,9 @@
 > - <a id="ancora12"></a>[12] Kdenlive. Acesso em: 23 de nov. de 2022. Disponível em: <https://kdenlive.org/en/>
 > - <a id="ancora13"></a>[13] Google Sheets. Acesso em: 23 nov. 2022. Disponível em: <https://www.google.com/sheets/about/>.
 > - <a id="ancora14"></a>[14] Formulários Google. Acesso em: 23 nov. 2022. Disponível em: <https://www.google.com/intl/pt-BR/forms/about/>. 
-> - <a id="ancora14"></a>[15] Fifa+. Acesso em: 23 nov. 2022. Disponível em: <https://www.fifa.com/>. 
-> - <a id="ancora14"></a>[16] Canvas. Acesso em: 23 nov. 2022. Disponível em: <https://www.canva.com/>. 
-> - <a id="ancora14"></a>[17] This Person Does Not Exist. Acesso em: 23 nov. 2022. Disponível em: <https://thispersondoesnotexist.com/>. 
+> - <a id="ancora15"></a>[15] Fifa+. Acesso em: 23 nov. 2022. Disponível em: <https://www.fifa.com/>. 
+> - <a id="ancora16"></a>[16] Canvas. Acesso em: 23 nov. 2022. Disponível em: <https://www.canva.com/>. 
+> - <a id="ancora17"></a>[17] This Person Does Not Exist. Acesso em: 23 nov. 2022. Disponível em: <https://thispersondoesnotexist.com/>. 
 
 
 ## 4. Histórico de Versão
