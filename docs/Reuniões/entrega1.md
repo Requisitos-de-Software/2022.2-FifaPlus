@@ -31,9 +31,9 @@
 
 ## Histórico de versões
 
-|    Data    | Versão |     Descrição     |        Autor(es)        |   Revisor(es)    |
-| :--------: | :----: | :---------------: | :---------------------: | :--------------: |
-| 23/11/2022 |  1.0   | Criação da página | Eric Chagas de Oliveira | Rafael e Charles |
+|    Data    | Versão |              Descrição               |        Autor(es)        |   Revisor(es)    |
+| :--------: | :----: | :----------------------------------: | :---------------------: | :--------------: |
+| 23/11/2022 |  1.0   | Criação da página e conteúdo inicial | Eric Chagas de Oliveira | Rafael e Charles |
 
 
 ###### Tabela 2 - Histórico de versões. Fonte: Autoria própria
