@@ -1,13 +1,18 @@
-site_name: Spotify
-site_url: https://requisitos-de-software.github.io/2022.2-Spotify
-repo_url: https://github.com/Requisitos-de-Software/2022.2-Spotify
-repo_name: 2022.2-Spotify
+site_name: FIFA PLUS
+site_url: https://requisitos-de-software.github.io/2022.2-FifaPlus
+repo_url: https://github.com/Requisitos-de-Software/2022.2-FifaPlus
+repo_name: 2022.2-FifaPlus
 edit_uri: ""
 copyright: UnB - Faculdade do Gama &copy; 2022
 extra_css:
   - stylesheets/extra.css
 
 markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
   - toc:
       title: Conteúdo da página
 
@@ -17,15 +22,15 @@ markdown_extensions:
 
 extra:
   social:
-    - link: https://github.com/Requisitos-de-Software/2022.2-Spotify
+    - link: https://github.com/Requisitos-de-Software/2022.2-FifaPlus
       icon: fontawesome/brands/github
 
-    - link: https://www.spotify.com
-      icon: fontawesome/brands/spotify
+    - link: https://www.fifa.com/fifaplus/pt?c=(c_FIFAPlus)(sc_launch)(ssc_platform)(cc_)&pid=(p_others)(ch_)(t_)
+      icon: material/soccer
 
 theme:
   name: material
-  logo: img/social.png
+  logo: img/FIFA.webp
 
   features:
     - navigation.tabs
@@ -36,16 +41,16 @@ theme:
   palette:
     # Palette toggle for light mode
     - scheme: default
-      primary: green
-      accent: lime
+      primary: deep-purple
+      accent: purple
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary: green
-      accent: lime
+      primary: deep-purple
+      accent: purple
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode

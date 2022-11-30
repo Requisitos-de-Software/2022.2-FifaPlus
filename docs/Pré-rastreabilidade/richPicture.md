@@ -25,4 +25,4 @@ Um Rich Picture é um desenho que ilustra os principais elementos e relacionamen
 
 |    Data    | Versão |                           Descrição                            |        Autor(es)        | Revisor(es) |
 | :--------: | :----: | :------------------------------------------------------------: | :---------------------: | :---------: |
-| 10/11/2022 |  0.0   | Realizado primeiro rascunho do RichPicture sobre a visão geral | Thiago Cerqueira Borges |     Eric    |
+| 10/11/2022 |  1.0   | Realizado primeiro rascunho do RichPicture sobre a visão geral | Thiago Cerqueira Borges |     Eric    |
