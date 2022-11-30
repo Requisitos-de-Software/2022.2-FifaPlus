@@ -3,7 +3,6 @@
 !!! abstract "Reuniões da Entrega 1"
     
     Nessa página encontram-se as reuniões realizadas pela equipe para a primeira entrega da disciplina por meio da plataforma Microsoft Teams.
-    As reuniões podem ser visualizadas na **Tabela 1**.
 
     ###### É possível navegar pelas reuniões da entrega por meio das abas acima da tabela.
 
@@ -23,6 +22,8 @@
     A primeira reunião teve por objetivos iniciar as discussões sobre a escolha do aplicativo a ser trabalhado na disciplina, assim como conversar sobre a organização interna da equipe e também iniciar as primeiras tasks, baseadas no definido para a Entrega 1 da disciplina.
 
     ### Tarefas
+
+    As tarefas podem ser visualizadas na **Tabela 1**.
 
     |                               **Tarefa**                               |   **Responsável**  |
     | ---------------------------------------------------------------------- | ------------------ |
