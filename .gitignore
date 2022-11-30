@@ -1,1 +1,5 @@
+# Ignore dinamic site files
 site
+
+# Ignore Image metadata
+*Zone.Identifier
