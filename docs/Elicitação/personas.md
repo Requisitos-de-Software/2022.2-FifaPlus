@@ -122,6 +122,6 @@ Todas as imagens utilizadas nesta página, com legendas Figura 1-4, para represe
 
 ## 4. Histórico de versão
 
-|    Data    | Versão |                          Descrição                                   |  Autor(es)      | Revisor(es) |
-| :--------: | :----: | :------------------------------------------------------------------: | :-------------: | :---------: |
-| 30/11/2022 |  1.0   | Criada a página sobre as personas e adicionadas as personas iniciais | Charles Serafim |   Wengel    |
+|    Data    | Versão |                          Descrição                                   |  Autor(es)      | Revisor(es)      |
+| :--------: | :----: | :------------------------------------------------------------------: | :-------------: | :--------------: |
+| 30/11/2022 |  1.0   | Criada a página sobre as personas e adicionadas as personas iniciais | Charles Serafim | Thiago Cerqueira |
