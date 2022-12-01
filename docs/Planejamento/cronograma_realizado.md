@@ -26,14 +26,18 @@ Na tabela 2 podemos ver o que foi realizado na Etapa 2.
 
 |        Atividade         |  Entrega   |  Revisão   |      Autor(es)       |          Revisor(es)          |
 | :----------------------: | :--------: | :--------: | :------------------: | :---------------------------: |
-|  Ferramentas do projeto  | 20/11/2022 | 21/11/2022 |     Thiago Borges    |          Thiago Borges        |
-| Cronograma de atividades | 20/11/2022 | 21/11/2022 |   Wengel Rodrigues   |         Wengel Rodrigues      |
-|          HeatMap         | 20/11/2022 | 21/11/2022 |  Raphaela Guimarães  |           Eric Chagas         |
-|       GitHub Pages       | 20/11/2022 | 21/11/2022 |     Eric Chagas      |          Thiago Borges        |
-|       Rich Picture       | 20/11/2022 | 21/11/2022 |    Thiago Borges     |           Eric Chagas         |
-| Gravação da apresentação | 21/11/2022 |     -      |     Eric Chagas      |               -               |
+|      Escala de três      | 30/11/2022 | 30/11/2022 |     Eric Chagas      |         Wengel Rodrigues      |
+|         MoSCoW           | 30/11/2022 | 30/10/2022 |        Rafael        |           Eric Chagas         |
+|       Observação         | 30/11/2022 | 30/10/2022 |   Wengel Rodrigues   |           Eric Chagas         |
+|       Storytelling       | 30/11/2022 | 30/10/2022 |     Thiago Borges    |           Eric Chagas         |
+|      Brainstorming       | 30/11/2022 | 30/10/2022 |     Thiago Borges    |           Eric Chagas         |
+|        Personas          | 30/11/2022 | 30/10/2022 |        Charles       |         Thiago Borges         |
+|      Introspecção        | 30/11/2022 | 30/10/2022 |  Raphaela Guimarães  |        Rafael Fernandes       |          
+| Gravação da apresentação | 30/11/2022 |     -      | Todos os integrantes |               -               |
 
-###### Tabela 1: Itens realizados na Etapa 1.. Fonte: Autoria própria.
+
+
+###### Tabela 2: Itens realizados na Etapa 2.. Fonte: Autoria própria.
 
 
 ## 9. Referências
@@ -45,5 +49,6 @@ SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://ap
 |    Data    | Versão |                Descrição                | Autor            | Revisor(es) |
 | :--------: | :----: | :-------------------------------------: | :--------------- | :---------: |
 | 29/11/2022 |  1.0   | Versão inicial do cronograma do projeto | Wengel Rodrigues |      -      |
+| 30/11/2022 |  1.1   |            Adicionada etapa 2           | Wengel Rodrigues |      -      |
 
 ###### Tabela 2 - Histórico de versões. Fonte: Autoria própria.
