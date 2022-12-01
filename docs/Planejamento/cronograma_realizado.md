@@ -20,6 +20,20 @@ Na tabela 1 podemos ver o que foi realizado na Etapa 1.
 ###### Tabela 1: Itens realizados na Etapa 1.. Fonte: Autoria própria.
 
 
+## 2. Etapa 2
+
+Na tabela 2 podemos ver o que foi realizado na Etapa 2.
+
+|        Atividade         |  Entrega   |  Revisão   |      Autor(es)       |          Revisor(es)          |
+| :----------------------: | :--------: | :--------: | :------------------: | :---------------------------: |
+|  Ferramentas do projeto  | 20/11/2022 | 21/11/2022 |     Thiago Borges    |          Thiago Borges        |
+| Cronograma de atividades | 20/11/2022 | 21/11/2022 |   Wengel Rodrigues   |         Wengel Rodrigues      |
+|          HeatMap         | 20/11/2022 | 21/11/2022 |  Raphaela Guimarães  |           Eric Chagas         |
+|       GitHub Pages       | 20/11/2022 | 21/11/2022 |     Eric Chagas      |          Thiago Borges        |
+|       Rich Picture       | 20/11/2022 | 21/11/2022 |    Thiago Borges     |           Eric Chagas         |
+| Gravação da apresentação | 21/11/2022 |     -      |     Eric Chagas      |               -               |
+
+###### Tabela 1: Itens realizados na Etapa 1.. Fonte: Autoria própria.
 
 
 ## 9. Referências
