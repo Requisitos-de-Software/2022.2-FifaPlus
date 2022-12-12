@@ -30,7 +30,7 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Classificação | Objeto |
 | Sinônimos| Melhores Lances, Cortes, Highlight |
 | Noção    | A aba de melhores momentos é onde se localiza os (videos) dos pontos altos dos jogos|
-| Impacto  | Os (usuários) podem [compartilhar](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem\de\Requisitos/Léxicos.md/#compartilhar) os melhores momentos em suas redes sociais. |
+| Impacto  | Os (usuários) podem [compartilhar](https://requisitos-de-software.github.io/2022.2-FifaPlus/docs/Modelagem de Requisitos/Léxicos.md/#compartilhar) os melhores momentos em suas redes sociais. |
 
 [//]: #[vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)>
 
