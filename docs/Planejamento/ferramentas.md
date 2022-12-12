@@ -29,6 +29,7 @@
 |      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-FifaPlus/main/docs/img/fifa.png" width="200">      | Fifa+ é o aplicativo que utilizamos para realizar o trabalho de IHC.[¹⁵](#ancora15)                                                                                                                                                                                                                    |
 |      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-FifaPlus/main/docs/img/canvas.png" width="200">      | Canvas é uma plataforma de design gráfico que permite aos usuários criar gráficos de mídia social, apresentações, infográficos, pôsteres e outros conteúdos visuais. Está disponível online e em dispositivos móveis e integra milhões de imagens, fontes, modelos e ilustrações.[¹⁶](#ancora16)                                                                                                                                                                                                                    |
 |      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-FifaPlus/main/docs/img/person.png" width="200">      | This Person Does Not Exist é um site que apresenta imagens geradas por computador de rostos humanos fictícios usando uma Rede Geradora Adversária ao atualizar.[¹⁷](#ancora17)                                                                                                                                                                                                                    |
+|      <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-FifaPlus/main/docs/img/miro.png" width="200">      | A plataforma visual colaborativa em formato de lousa online que une sua equipe a qualquer hora, de qualquer lugar.[¹⁸](#ancora15)                                                                                                                                                                                                                    |
 
 
 ###### Tabela 1 - Tabela de ferramentas. Fonte: Autoria própria.
@@ -52,6 +53,8 @@
 > - <a id="ancora15"></a>[15] Fifa+. Acesso em: 23 nov. 2022. Disponível em: <https://www.fifa.com/>. 
 > - <a id="ancora16"></a>[16] Canvas. Acesso em: 23 nov. 2022. Disponível em: <https://www.canva.com/>. 
 > - <a id="ancora17"></a>[17] This Person Does Not Exist. Acesso em: 23 nov. 2022. Disponível em: <https://thispersondoesnotexist.com/>. 
+> - <a id="ancora18"></a>[18] Miro. Acesso em: 12 nov. 2022. Disponível em: <https://miro.com/>. 
+
 
 
 ## 4. Histórico de Versão
