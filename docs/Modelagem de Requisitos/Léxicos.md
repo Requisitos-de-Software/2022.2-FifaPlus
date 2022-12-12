@@ -197,6 +197,6 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 > - Milene Serrano, Requisitos - Aula 07. Acesso em: 17 de jul. de 2022. Disponível em: Aprender3.
 
 ## 5. Histórico de Versão
-| Versão |    Data    |       Descrição       |     Autor     |    Revisor    |
+| Data |   Versão    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
-|  1.0   | 11/12/2022 | Criação do escopo do documento  |     Thiago Cerqueira     | Eric Chagas |
+|  11/12/2022  | 1.0 | Criação do escopo do documento  |     Thiago Cerqueira     | Eric Chagas |
