@@ -16,7 +16,7 @@ Um diagrama de casos de uso é composto pelos elementos descritos a seguir.
 
 Representam usuários que fazem a interação com o sistema. Geralmente são representados por bonecos (Figura 1).
 
-![Ator](img/ator-uml.png)
+![Ator](../img/ator-uml.png)
 <div style="text-align: center">
 <p> Figura 1: Ator (Fonte: autores, 2022).</p>
 </div>
@@ -25,7 +25,7 @@ Representam usuários que fazem a interação com o sistema. Geralmente são rep
 
 Define até onde o sistema tem seu escopo, normamente são representados por uma caixa (Figura 2).
 
-![Limite do sistema](img/container-uml.png)
+![Limite do sistema](../img/container-uml.png)
 <div style="text-align: center">
 <p> Figura 2: Cenário (Fonte: autores, 2022).</p>
 </div>
@@ -34,7 +34,7 @@ Define até onde o sistema tem seu escopo, normamente são representados por uma
 
 Representam os diferentes usos que o usuário pode fazer. Geralmente são definidos na forma oval horizontal (Figura 3).
 
-![Casos de uso](images/usecase-uml.png)
+![Casos de uso](../img/case-uml.png)
 <div style="text-align: center">
 <p> Figura 3: Caso de uso (Fonte: autores, 2022).</p>
 </div>
