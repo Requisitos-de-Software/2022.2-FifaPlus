@@ -2,19 +2,17 @@
 
 ## 1. Introdução
 <p align="justify">&emsp;&emsp;Atividade que visa elaborar modelos capazes de representar características ou comportamentos de um software.
-LAL - Léxico Ampliado da Linguagem - Trata-se de uma técnica que compõe os cenários de forma a descrever os símbolos de uma linguagem. Nesse caso, essa técnica descreve alguns termos relacionados ao software em questão. Cada símbolo tem um nome, uma noção e um impacto, sendo que:
+LAL - Léxico Ampliado da Linguagem - Trata-se de uma técnica que compõe os cenários de forma a descrever os símbolos de uma linguagem. Nesse caso, essa técnica descreve alguns termos relacionados ao software em questão. Cada símbolo tem um nome, uma noção e um impacto.
 
-noção : é o que significa o símbolo (denotação);
-impacto : é o efeito do símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo (conotação).
 
-Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Tem como principal objetivo a identificação de palavras ou frases peculiares ao meio social da aplicação.(Milene Serrano, Requisitos - Aula 10, página 13).</p>
 
-<p align="justify">&emsp;&emsp;Os léxicos podem ser dividos em 3 tipos: Estado, Objeto e Verbo. Essa página é dedicada aos <b>estados</b>.</p>
+<p align="justify">&emsp;&emsp;Os léxicos podem ser dividos em 3 tipos: Estado, Objeto e Verbo.</p>
 
 ## 2. Metodologia
 <p align="justify">&emsp;&emsp;Após a listagem dos léxicos do tipo estado identificados pela equipe, eles foram detalhados compondo os seguintes elementos:</p>
 
 - **Nome**: nome do léxico em si.
+- **Classificação**: tipo de léxico podendo ser Estado, Objeto e Verbo  
 - **Sinônimos**: palavras ou expressões com significado similar ao léxico.
 - **Impacto**: identificar outros estados e ações que podem ocorrer a partir do que se descreve.
 - **Noção**: o que significa e quais ações levaram a esse estado.
@@ -222,3 +220,5 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Data |   Versão    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
 |  11/12/2022  | 1.0 | Criação do escopo do documento  |     Thiago Cerqueira     | Eric Chagas |
+|  12/12/2022  | 1.1 | Adição dos links internos  |     Thiago Cerqueira     | Eric Chagas |
+|  12/12/2022  | 1.2 | Correção ortográfica  |     Thiago Cerqueira     | Eric Chagas |
