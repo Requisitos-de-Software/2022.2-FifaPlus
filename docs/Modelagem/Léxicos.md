@@ -29,10 +29,10 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Nome     | Melhores Momentos |
 | Classificação | Objeto |
 | Sinônimos| Melhores Lances, Cortes, Highlight |
-| Noção    | A aba de melhores momentos é onde se localiza os (videos) dos pontos altos dos jogos|
-| Impacto  | Os (usuários) podem [compartilhar](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem\ de\ Requisitos/Léxicos.md/#compartilhar) os melhores momentos em suas redes sociais. |
+| Noção    | A aba de melhores momentos é onde se localiza os [videos](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#videos) dos pontos altos dos jogos|
+| Impacto  | Os [usuários](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem [compartilhar](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#compartilhar) os melhores momentos em suas redes sociais. |
 
-[//]: #[vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)>
+
 
 <div id="usuarios"></div>
 
@@ -43,7 +43,7 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Classificação | Objeto |
 | Sinônimos| User, Utilizador, Cliente |
 | Noção    | Pessoa que utiliza o aplicativo |
-| Impacto  | Realiza as ações no aplicativo, não é necessário cadastro e (login) para algumas funcionalidades |
+| Impacto  | Realiza as ações no aplicativo, não é necessário cadastro e [login](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#login) para algumas funcionalidades |
 
 <div id="login"></div>
 
@@ -54,7 +54,7 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Classificação | Verbo |
 | Sinônimos| Entrar, Acessar, Logar |
 | Noção    | Libera acesso a algumas funcionalidades do aplicativo|
-| Impacto  | O (usuário) podem efetuar o login caso queira utilizar algumas das funcionalidades específicas que necessitam de tal. |
+| Impacto  | O [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem efetuar o login caso queira utilizar algumas das funcionalidades específicas que necessitam de tal. |
 
 <div id="logado"></div>
 
@@ -64,8 +64,8 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Nome     |  Logado |
 | Classificação | Estado |
 | Sinônimos| Conectado, Autenticado |
-| Noção    | Um (usuário) que se autentica com os dados de sua conta |
-| Impacto  | Um usuário logado pode utilizar de ferramentas e funcionalidades mais sofisticadas no app, como escolher sua seleção favorita e participar do bolão. |
+| Noção    | Um [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) que se autentica com os dados de sua conta |
+| Impacto  | Um [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) logado pode utilizar de ferramentas e funcionalidades mais sofisticadas no app, como escolher sua [seleção](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#selecoes) favorita e participar do bolão. |
 
 <div id="deslogado"></div>
 
@@ -75,8 +75,8 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Nome     |  Deslogar |
 | Classificação | Estado |
 | Sinônimos| Desconectado |
-| Noção    | Um (usuário) que não se autentica com os dados de sua conta |
-| Impacto  | Um usuário deslogado tem acesso restritor e limitado as funcionalidades dos sistemas. |
+| Noção    | Um [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) que não se autentica com os dados de sua conta |
+| Impacto  | Um [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) deslogado tem acesso restritor e limitado as funcionalidades dos sistemas. |
 
 <div id="videos"></div>
 
@@ -87,7 +87,7 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Classificação | Objeto |
 | Sinônimos| Gravação, Cortes, Melhores Momentos |
 | Noção    | São fragmentos importantes tirados de transmissões de partida da copa. |
-| Impacto  | Podem ser assistidos, compartilhados e pausados|
+| Impacto  | Podem ser assistidos, [compartilhados](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#compartilhar) e pausados|
 
 
 <div id="interface"></div>
@@ -99,7 +99,7 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Classificação | Objeto |
 | Sinônimos| Pagina, Tela |
 | Noção    | Uma interface pode interagir e ser interagida|
-| Impacto  | A interface são os elementos que aparecem na tela e como estão distribuídos, contendo o menu (melhores momentos), (equipe) e (resultados) |
+| Impacto  | A interface são os elementos que aparecem na tela e como estão distribuídos, contendo o menu de [melhores momentos](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#melhores-momentos), [equipe](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#equipe) e [resultados](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#resultados) |
 
 
 <div id="equipes"></div>
@@ -110,8 +110,8 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Nome     | Equipes |
 | Classificação | Objeto |
 | Sinônimos| Aba de Times, Aba de Seleções, Aba de Países |
-| Noção    | A aba de equipes é onde se localiza as (seleções) que estão participando da copa do mundo de 2022. |
-| Impacto  | Os (usuários) podem clicar em uma (seleção) obtendo informações das mesmas. |
+| Noção    | A aba de equipes é onde se localiza as [seleções](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#selecoes) que estão participando da copa do mundo de 2022. |
+| Impacto  | Os [usuários](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em uma [seleção](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#selecoes) obtendo informações das mesmas. |
 
 
 <div id="selecoes"></div>
@@ -122,8 +122,8 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Nome     | Pausado |
 | Classificação | Objeto |
 | Sinônimos| Times, Países, Equipes |
-| Noção    | São as equipes que estão participando dos jogos da copa do mundo de 2022, podem ser encontradas nas (abas de equipes). |
-| Impacto  | Os (usuários) podem clicar em uma (seleção) obtendo informações como (calendário) de jogos, (estatísticas), (elenco) e (noticias) relacionadas.|
+| Noção    | São as [equipes](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#equipes) que estão participando dos [jogos](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#jogo) da copa do mundo de 2022, podem ser encontradas nas [aba de equipes](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#equipes). |
+| Impacto  | Os [usuários](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em uma (seleção) obtendo informações como (calendário) de jogos, [estatísticas](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#estatisticas), [elenco](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#elenco) e [notícias](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#noticias) relacionadas.|
 
 
 <div id="calendario"></div>
@@ -134,8 +134,8 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Nome     | Calendário |
 | Classificação | Objeto |
 | Sinônimos| Publicado, Cronograma, Histórico de jogos |
-| Noção    | O calendário é onde o usuário pode verificar o resultado dos jogos passados e a data e hora dos jogos que estão por vir. |
-| Impacto  | Os (usuarios) podem clicar em cada jogo e verificar (noticias) e o resumo do jogo.  |
+| Noção    | O calendário é onde o [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) pode verificar o [resultado](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#resultados) dos [jogos](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#jogo) passados e a data e hora dos [jogos](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#jogo) que estão por vir. |
+| Impacto  | Os [usuários](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em cada jogo e verificar (noticias) e o resumo do jogo.  |
 
 <div id="noticias"></div>
 
@@ -145,8 +145,8 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Nome     | Notícias |
 | Classificação | Objeto |
 | Sinônimos| Descrição, Resumo, Informação |
-| Noção    | São informações relacionadas a uma (seleção), jogador ou a copa no geral. |
-| Impacto  | Os (usuários) podem clicar em uma noticia ler e (compartilhar). |
+| Noção    | São informações relacionadas a uma [seleção](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#selecoes), jogador, [jogo](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#jogo) ou a copa no geral. |
+| Impacto  | Os [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em uma noticia ler e (compartilhar). |
 
 <div id="elenco"></div>
 
@@ -156,8 +156,8 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Nome     | Elenco |
 | Classificação | Objeto |
 | Sinônimos| Time, Conjunto, Formação |
-| Noção    | São jogadores que compõem as (seleções). |
-| Impacto  | Os (usuários) podem clicar em elenco e (visualizar) os jogadores que compõem o elenco. |
+| Noção    | São jogadores que compõem as [seleções](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#selecoes). |
+| Impacto  | Os [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em elenco e [visualizar](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#visualizar) os jogadores que compõem o elenco. |
 
 <div id="estatisticas"></div>
 
@@ -167,8 +167,8 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Nome     | Elenco |
 | Classificação | Objeto |
 | Sinônimos| Dados, Resultados |
-| Noção    | São dados coletados durante os jogos como gols, passes, cartões, etc... |
-| Impacto  | Os (usuários) podem clicar em Estatísticas e (visualizar) os dados.  |
+| Noção    | São dados coletados durante os [jogos](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#jogos) como gols, passes, cartões, etc... |
+| Impacto  | Os [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em Estatísticas e (visualizar) os dados.  |
 
 <div id="compartilhar"></div>
 
@@ -178,8 +178,8 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Nome     | Compartilhar |
 | Classificação | Verbo |
 | Sinônimos| Distribuir, Partilhar, Passar para frente |
-| Noção    | É o ato de um (usuário) copiar o link de um (vídeo) ou postá-lo em outra rede social.|
-| Impacto  | Um (vídeo) pode ser compartilhado em diversas redes sociais fora do App|
+| Noção    | É o ato de um [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) copiar o link de um [video](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#videos) ou postá-lo em outra rede social.|
+| Impacto  | Um [video](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#videos) pode ser [compartilhado](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#compartilhado) em diversas redes sociais fora do App|
 
 <div id="visualizar"></div>
 
@@ -189,8 +189,30 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 | Nome     | Visualizar |
 | Classificação | Verbo |
 | Sinônimos| Assistir, Ver |
-| Noção    | É o ato de assistir a um video ou ver e ler uma (noticia)|
+| Noção    | É o ato de assistir a um [video](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#videos) ou ver e ler uma [notícia](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#noticias)|
 | Impacto  | Um (vídeo) pode ser Visualizado e (Compartilhado)|
+
+<div id="resultados"></div>
+
+### 3.16 - Resultados  
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Visualizar |
+| Classificação | Objeto |
+| Sinônimos| Termino, Conclusão |
+| Noção    | Aba onde fica os [jogos](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#jogos) e seus placares|
+| Impacto  | O [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) pode clicar em um [jogo](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#jogos) para ter acesso a mais detalhes|
+
+<div id="jogos"></div>
+
+### 3.17 - Jogos  
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Jogo |
+| Classificação | Objeto |
+| Sinônimos| Match, Partida, rodada |
+| Noção    | São as partidas que dão origem aos [videos](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#videos), [notícias](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#noticias) e [estatísticas](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#estatisticas) |
+| Impacto  | O [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) obter todo os tipos de [estatísticas](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#estatisticas) do jogo.|
 
 ## 4. Referências
 
