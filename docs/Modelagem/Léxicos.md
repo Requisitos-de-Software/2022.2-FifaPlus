@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 <p align="justify">&emsp;&emsp;Atividade que visa elaborar modelos capazes de representar características ou comportamentos de um software.
-LAL - Léxico Ampliado da Linguagem - Trata-se de uma técnica que compõe os cenários de forma a descrever os símbolos de uma linguagem. Nesse caso, essa técnica descreve alguns termos relacionados ao software em questão. Cada símbolo tem um nome, uma noção e um impacto.
+LAL - Léxico Ampliado da Linguagem - Trata-se de uma técnica que compõe os cenários de forma a descrever os símbolos de uma linguagem. Nesse caso, essa técnica descreve alguns termos relacionados ao software em questão. Cada símbolo tem um nome, uma noção e um impacto.</p>
 
 
 
