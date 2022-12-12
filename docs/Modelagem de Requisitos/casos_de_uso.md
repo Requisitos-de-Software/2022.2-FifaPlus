@@ -53,6 +53,12 @@ São utilizados para representar as interações entre os atores e os casos de u
 
 ## Diagrama de Casos de Uso
 
+![Diagrama de casos de uso](../img/case-uml.png)
+<div style="text-align: center">
+<p> Figura 4: Diagrama de casos de uso (Fonte: autores, 2022).</p>
+</div>
+
+A seguir, a especificação dos casos de uso identificados.
 
 ## Bibliografia
 
@@ -66,3 +72,4 @@ São utilizados para representar as interações entre os atores e os casos de u
 |    Data    | Versão |                     Descrição                     |        Autor(es)        | Revisor(es) |
 | :--------: | :----: | :-----------------------------------------------: | :---------------------: | :---------: |
 | 11/12/2022 |  1.0   |           Criação inicial do documento            |     Wengel Rodrigues    |   Thiago    |
+| 12/12/2022 |  1.1   |           Adicionado diagrama de casos            |     Wengel Rodrigues    |   Thiago    |
