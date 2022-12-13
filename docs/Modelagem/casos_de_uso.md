@@ -63,13 +63,13 @@ A seguir, nas Tabelas 1, 2, 3 e 4, a especificação dos casos de uso identifica
 ### UC01. Calendário
 
 | **UC01**                | **Calendário** |
-| :---------------------: | :------------: |
+| ----------------------: | :------------- |
 | **Atores**              | Usuário |
 | **Frequência de uso**   | Alta |
 | **Requisitos**          | Aplicativo instalado, conexão com a internet |
 | **Pré condições**       | O usuário seleciona o menu e depois a opção "calendário" |
-| **Fluxo principal**     | 1. O sistema mostra a classificação das seleções por grupos e seções suspensas com informações sobre cada uma das fases de mata-mata com a opção de expandir as seções |
-| **Fluxos alternativos** | 1. O usuário expande a seção de uma fase de mata-mata específica para visualizar as partidas além de visualizar a classificação das seleções dentro dos grupos |
+| **Fluxo principal**     | <ol> <li> O sistema mostra a classificação das seleções por grupos e seções suspensas com informações sobre cada uma das fases de mata-mata com a opção de expandir as seções </ol> |
+| **Fluxos alternativos** | <ol> <li> O usuário expande a seção de uma fase de mata-mata específica para visualizar as partidas além de visualizar a classificação das seleções dentro dos grupos </ol> |
 | **Pós condições**       | O usuário consegue visualizar as datas e resultados das partidas até então definidas |
 | **Rastreabilidade**     | RF07, ST03 |
 
@@ -79,8 +79,8 @@ A seguir, nas Tabelas 1, 2, 3 e 4, a especificação dos casos de uso identifica
 
 ### UC02. Melhores momentos
 
-| **UC01**                | **Melhores momentos** |
-| :---------------------: | :-------------------: |
+| **UC02**                | **Melhores momentos** |
+| ----------------------: | :-------------------- |
 | **Atores**              | Usuário |
 | **Frequência de uso**   | Média |
 | **Requisitos**          | Aplicativo instalado, conexão com a internet |
@@ -96,8 +96,8 @@ A seguir, nas Tabelas 1, 2, 3 e 4, a especificação dos casos de uso identifica
 
 ### UC03. Assistir os jogos
 
-| **UC01**                | **Assistir os jogos** |
-| :---------------------: | :-------------------: |
+| **UC03**                | **Assistir os jogos** |
+| ----------------------: | :-------------------- |
 | **Atores**              | Usuário |
 | **Frequência de uso**   | Alta |
 | **Requisitos**          | Aplicativo instalado, conexão com a internet |
@@ -113,8 +113,8 @@ A seguir, nas Tabelas 1, 2, 3 e 4, a especificação dos casos de uso identifica
 
 ### UC04. Ver equipes
 
-| **UC01**                | **Ver equipes** |
-| :---------------------: | :-------------: |
+| **UC04**                | **Ver equipes** |
+| ----------------------: | :-------------- |
 | **Atores**              | Usuário |
 | **Frequência de uso**   | Média |
 | **Requisitos**          | Aplicativo instalado, conexão com a internet |
