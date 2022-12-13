@@ -125,7 +125,7 @@ A seguir, nas Tabelas 1, 2, 3 e 4, a especificação dos casos de uso identifica
 | **Rastreabilidade**     | RF06, ST02, REQ01-10 |
 
 <div style="text-align: center">
-<p> Tabela 3: UC03 - Ver equipes (Fonte: autores, 2022).</p>
+<p> Tabela 4: UC04 - Ver equipes (Fonte: autores, 2022).</p>
 </div>
 
 ## Bibliografia
