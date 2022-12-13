@@ -214,7 +214,7 @@ LAL - Léxico Ampliado da Linguagem - Trata-se de uma técnica que compõe os ce
 
 ## 4. Referências
 
-> - Milene Serrano, Requisitos - Aula 07. Acesso em: 17 de jul. de 2022. Disponível em: Aprender3.
+> - Milene Serrano, Requisitos - Modelagem - Parte 1. Acesso em: 9 de dez. de 2022. Disponível em: Aprender3.
 
 ## 5. Histórico de Versão
 | Data |   Versão    |       Descrição       |     Autor     |    Revisor    |
