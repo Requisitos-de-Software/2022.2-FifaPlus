@@ -121,7 +121,7 @@ LAL - Léxico Ampliado da Linguagem - Trata-se de uma técnica que compõe os ce
 | Classificação | Objeto |
 | Sinônimos| Times, Países, Equipes |
 | Noção    | São as [equipes](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#equipes) que estão participando dos [jogos](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#jogo) da copa do mundo de 2022, podem ser encontradas nas [aba de equipes](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#equipes). |
-| Impacto  | Os [usuários](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em uma (seleção) obtendo informações como (calendário) de jogos, [estatísticas](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#estatisticas), [elenco](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#elenco) e [notícias](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#noticias) relacionadas.|
+| Impacto  | Os [usuários](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em uma seleção obtendo informações como [calendário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) de jogos, [estatísticas](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#estatisticas), [elenco](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#elenco) e [notícias](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#noticias) relacionadas.|
 
 
 <div id="calendario"></div>
@@ -133,7 +133,7 @@ LAL - Léxico Ampliado da Linguagem - Trata-se de uma técnica que compõe os ce
 | Classificação | Objeto |
 | Sinônimos| Publicado, Cronograma, Histórico de jogos |
 | Noção    | O calendário é onde o [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) pode verificar o [resultado](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#resultados) dos [jogos](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#jogo) passados e a data e hora dos [jogos](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#jogo) que estão por vir. |
-| Impacto  | Os [usuários](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em cada jogo e verificar (noticias) e o resumo do jogo.  |
+| Impacto  | Os [usuários](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em cada jogo e verificar [notícias](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#noticias) e o resumo do jogo.  |
 
 <div id="noticias"></div>
 
@@ -144,7 +144,7 @@ LAL - Léxico Ampliado da Linguagem - Trata-se de uma técnica que compõe os ce
 | Classificação | Objeto |
 | Sinônimos| Descrição, Resumo, Informação |
 | Noção    | São informações relacionadas a uma [seleção](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#selecoes), jogador, [jogo](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#jogo) ou a copa no geral. |
-| Impacto  | Os [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em uma noticia ler e (compartilhar). |
+| Impacto  | Os [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em uma noticia ler e [compartilhar](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#compartilhar) . |
 
 <div id="elenco"></div>
 
@@ -188,7 +188,7 @@ LAL - Léxico Ampliado da Linguagem - Trata-se de uma técnica que compõe os ce
 | Classificação | Verbo |
 | Sinônimos| Assistir, Ver |
 | Noção    | É o ato de assistir a um [video](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#videos) ou ver e ler uma [notícia](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#noticias)|
-| Impacto  | Um (vídeo) pode ser Visualizado e (Compartilhado)|
+| Impacto  | Um [video](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#videos) pode ser visualizado e [compartilhado](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#compartilhar)|
 
 <div id="resultados"></div>
 
@@ -222,3 +222,4 @@ LAL - Léxico Ampliado da Linguagem - Trata-se de uma técnica que compõe os ce
 |  11/12/2022  | 1.0 | Criação do escopo do documento  |     Thiago Cerqueira     | Eric Chagas |
 |  12/12/2022  | 1.1 | Adição dos links internos  |     Thiago Cerqueira     | Eric Chagas |
 |  12/12/2022  | 1.2 | Correção ortográfica  |     Thiago Cerqueira     | Eric Chagas |
+|  12/12/2022  | 1.3 | Correção de links internos  |     Thiago Cerqueira     | Eric Chagas |
