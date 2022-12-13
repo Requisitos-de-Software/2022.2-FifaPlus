@@ -35,9 +35,25 @@ Na tabela 2 podemos ver o que foi realizado na Etapa 2.
 |      Introspecção        | 30/11/2022 | 30/10/2022 |  Raphaela Guimarães  |        Rafael Fernandes       |          
 | Gravação da apresentação | 30/11/2022 |     -      | Todos os integrantes |               -               |
 
-
-
 ###### Tabela 2: Itens realizados na Etapa 2.. Fonte: Autoria própria.
+
+
+## 2. Etapa 3
+
+Na tabela 2 podemos ver o que foi realizado na Etapa 2.
+
+|        Atividade         |  Entrega   |  Revisão   |      Autor(es)       |          Revisor(es)          |
+| :----------------------: | :--------: | :--------: | :------------------: | :---------------------------: |
+|         Cenários         | 12/12/2022 | 12/12/2022 |     Eric Chagas      |         Thiago Borges         |
+|      Casos de uso        | 11/12/2022 | 12/12/2022 |   Wengel e Charles   |        Wengel e Thiago        |
+|          Léxico          | 11/12/2022 | 12/12/2022 |     Thiago Borges    |           Eric Chagas         |
+
+
+
+
+
+###### Tabela 3: Itens realizados na Etapa 3.. Fonte: Autoria própria.
+
 
 
 ## 9. Referências
@@ -50,5 +66,6 @@ SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://ap
 | :--------: | :----: | :-------------------------------------: | :--------------- | :---------: |
 | 29/11/2022 |  1.0   | Versão inicial do cronograma do projeto | Wengel Rodrigues |      -      |
 | 30/11/2022 |  1.1   |            Adicionada etapa 2           | Wengel Rodrigues |      -      |
+| 12/12/2022 |  1.2   |            Adicionada etapa 3           | Wengel Rodrigues |      -      |
 
 ###### Tabela 2 - Histórico de versões. Fonte: Autoria própria.
