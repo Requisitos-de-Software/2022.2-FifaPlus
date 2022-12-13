@@ -121,7 +121,7 @@ LAL - Léxico Ampliado da Linguagem - Trata-se de uma técnica que compõe os ce
 | Classificação | Objeto |
 | Sinônimos| Times, Países, Equipes |
 | Noção    | São as [equipes](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#equipes) que estão participando dos [jogos](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#jogo) da copa do mundo de 2022, podem ser encontradas nas [aba de equipes](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#equipes). |
-| Impacto  | Os [usuários](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em uma seleção obtendo informações como [calendário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) de jogos, [estatísticas](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#estatisticas), [elenco](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#elenco) e [notícias](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#noticias) relacionadas.|
+| Impacto  | Os [usuários](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em uma seleção obtendo informações como [calendário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#calendario) de jogos, [estatísticas](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#estatisticas), [elenco](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#elenco) e [notícias](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#noticias) relacionadas.|
 
 
 <div id="calendario"></div>
@@ -166,7 +166,7 @@ LAL - Léxico Ampliado da Linguagem - Trata-se de uma técnica que compõe os ce
 | Classificação | Objeto |
 | Sinônimos| Dados, Resultados |
 | Noção    | São dados coletados durante os [jogos](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#jogos) como gols, passes, cartões, etc... |
-| Impacto  | Os [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em Estatísticas e (visualizar) os dados.  |
+| Impacto  | Os [usuário](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#usuarios) podem clicar em Estatísticas e [visualizar](https://requisitos-de-software.github.io/2022.2-FifaPlus/Modelagem/Léxicos/#visualizar) os dados.  |
 
 <div id="compartilhar"></div>
 
