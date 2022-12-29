@@ -13,7 +13,7 @@ mesmas. Segue a tabela 1 que mostra alguma informaçãoes da reunião.
 
 |    Data    |       Horário do inicio       |     Duração     |    Participantes    | Aplicativo ultilizado|
 |:----------:|:---------------------:|:-------------:|:-------------:|:-------------:|
-| 29/11/2022 |  20:00 |   20:00 até as 22:04 |Thigo, Eric, Wengel, Charles, Rafaela, Rafael   |Teams|
+| 29/11/2022 |  20:00 |   20:00 até as 22:04 |Thigo, Eric, Wengel, Charles, Raphaela , Rafael   |Teams|
 
 </center>
 <h6 align = "center"> Tabela 1: Infotmações sobre a reunião</h6>
