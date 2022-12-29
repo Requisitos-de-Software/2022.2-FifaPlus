@@ -49,6 +49,10 @@ Com caráter persuasivo, o principal objetivo do uso de storytelling é não som
 
 #### Requisitos elicitados
 
+- ST: Requisitos de<span>Storytelling</span>
+- RF: Requisitos <span>Funcionais</span>
+- RNF: Requisitos não <span>Funcionais</span>
+
 | ID LOCAL| Requisitos elicitados | Tipo de requisito |
 |:--:|:--:|:--:|
 |ST01| A pessoa física usuária do aplicativo deve conseguir obter informações e acompanhar o resultado dos jogos em tempo real (Figura 1). | RNF |
@@ -65,3 +69,4 @@ Com caráter persuasivo, o principal objetivo do uso de storytelling é não som
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
 | 1.0 | 30/11/22 | Criação do documento | Thiago Cerqueira | Eric Chagas |
+| 1.1 | 29/12/22 | Adicionada legenda   |      Wengel      | Eric Chagas |
