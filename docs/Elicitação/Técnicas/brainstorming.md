@@ -9,13 +9,20 @@ Contudo, é importante não confundir essa liberdade de ideias com a falta de um
 Para a execução dessa técnica, o grupo elegeu um  responsável por anotar todas as ideias e 
 orientar a dinâmica, enquanto os demais integrantes manifestavam suas ideias acerca dos requisitos que a aplicação do FIFA+
 deveria ter. Após a fase mais criativa, aplicou-se um processo de amadurecimento das ideias e consolidação em tópicos das
-mesmas.
+mesmas. Segue a tabela 1 que mostra alguma informaçãoes da reunião.
+
+|    Data    |       Horário do inicio       |     Duração     |    Participantes    | Aplicativo ultilizado|
+|:----------:|:---------------------:|:-------------:|:-------------:|:-------------:|
+| 29/11/2022 |  20:00 |   20:00 até as 22:04 |Thigo, Eric, Wengel, Charles, Raphaela , Rafael   |Teams|
+
+</center>
+<h6 align = "center"> Tabela 1: Infotmações sobre a reunião</h6>
 
 ## 3. Resultados
 Os resultados foram divididos em tópicos ou temas que a aplicação tem ou nos como grupo gostaríamos que tivessem. Seguem os resultados nas tabelas de requisitos::
 
 ### 3.1. Melhores Momentos
-Abaixo segue a tabela 1 com os requisitos levantados pelo domínio **Melhores Momentos**:
+Abaixo segue a tabela 2 com os requisitos levantados pelo domínio **Melhores Momentos**:
 <center>
 
 | ID |                           Requisitos levantados                           |Tipo de requisitos  | 
@@ -29,10 +36,10 @@ Abaixo segue a tabela 1 com os requisitos levantados pelo domínio **Melhores Mo
 
 
 </center>
-<h6 align = "center">Tabela 1: Requisitos de Melhores Momentos</h6>
+<h6 align = "center">Tabela 2: Requisitos de Melhores Momentos</h6>
 
 ### 3.2. Equipes
-Abaixo segue a tabela 2 com os requisitos levantados pelo domínio **Equipes**:
+Abaixo segue a tabela 3 com os requisitos levantados pelo domínio **Equipes**:
 <center>
 
 | ID |                               Requisitos levantados                               |Tipo de requisitos  | 
@@ -50,10 +57,10 @@ Abaixo segue a tabela 2 com os requisitos levantados pelo domínio **Equipes**:
 
 
 </center>
-<h6 align = "center">Tabela 2: Requisitos de Equipes </h6>
+<h6 align = "center">Tabela 3: Requisitos de Equipes </h6>
 
 ### 3.3. Pontuação e Jogos
-Abaixo segue a tabela 3 com os requisitos levantados pelo domínio **Pontuação e Jogos**:
+Abaixo segue a tabela 4 com os requisitos levantados pelo domínio **Pontuação e Jogos**:
 <center>
 
 | ID |               Requisitos levantados                |Tipo de requisitos  | 
@@ -65,10 +72,10 @@ Abaixo segue a tabela 3 com os requisitos levantados pelo domínio **Pontuação
 |   REQ05    |        O usuário deve ser capaz de visualizar os jogos futuros de todas as seleções.| RNF |
 
 </center>
-<h6 align = "center">Tabela 3: Requisitos de Pontuação e Jogos</h6>
+<h6 align = "center">Tabela 4: Requisitos de Pontuação e Jogos</h6>
 
 ### 3.4. Bolão
-Abaixo segue a tabela 4 com os requisitos levantados pelo domínio **Bolão**:
+Abaixo segue a tabela 5 com os requisitos levantados pelo domínio **Bolão**:
 <center>
 
 | ID |               Requisitos levantados               |Tipo de requisitos  | 
@@ -80,10 +87,10 @@ Abaixo segue a tabela 4 com os requisitos levantados pelo domínio **Bolão**:
 |   REQ05    |         O usuário deve ser capaz acumular pontos com palpites do jogos.  |   RF  |
 
 </center>
-<h6 align = "center">Tabela 4: Requisitos de Bolão</h6>
+<h6 align = "center">Tabela 5: Requisitos de Bolão</h6>
 
 ### 3.5. Cadastro
-Abaixo segue a tabela 5 com os requisitos levantados pelo domínio **Cadastro**:
+Abaixo segue a tabela 6 com os requisitos levantados pelo domínio **Cadastro**:
 <center>
 
 | ID |             Requisitos levantados              | Tipo de requisitos  | 
@@ -97,10 +104,10 @@ Abaixo segue a tabela 5 com os requisitos levantados pelo domínio **Cadastro**:
 
 
 </center>
-<h6 align = "center">Tabela 5: Requisitos de Cadastro</h6>
+<h6 align = "center">Tabela 6: Requisitos de Cadastro</h6>
 
 ### 3.6. Login
-Abaixo segue a tabela 6 com os requisitos levantados pelo domínio **Login**:
+Abaixo segue a tabela 7 com os requisitos levantados pelo domínio **Login**:
 <center>
 
 | ID |         Requisitos levantados         |  Tipo de requisitos  | 
@@ -110,7 +117,7 @@ Abaixo segue a tabela 6 com os requisitos levantados pelo domínio **Login**:
 |   REQ03    | O usuário deve ser capaz de escolher uma nova senha. |   RNF |
 
 </center>
-<h6 align = "center">Tabela 6: Requisitos de Login</h6>
+<h6 align = "center">Tabela 7: Requisitos de Login</h6>
 
 ### 4. Legenda
 
@@ -132,3 +139,4 @@ Abaixo segue a tabela 6 com os requisitos levantados pelo domínio **Login**:
 | Versão |    Data    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
 |  1.0   | 30/11/2022 | Criação do escopo do documento  |     Thiago Cerqueira     | Eric Chagas |
+|  1.1   | 30/11/2022 | Adicionando mais informações da reunião  |     Thiago Cerqueira     | Eric Chagas |
