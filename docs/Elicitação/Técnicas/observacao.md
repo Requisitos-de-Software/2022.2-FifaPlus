@@ -13,7 +13,7 @@
 - Wengel Rodrigues
 
 ## 4. Resultados
-&emsp;&emsp;Como resultado da técnica de observação, foram levantados os seguintes requisitos (Tabela 1) e (Tabela 2):
+&emsp;&emsp;Como resultado da técnica de observação, foram levantados os seguintes requisitos (Tabela 1):
 
 ## 4.1 Requisitos Funcionais
 
@@ -24,8 +24,8 @@
 - RNF: Requisitos não <span>Funcionais</span>
 
 
-|Número| Descrição                                    |Tipo|
-|------|----------------------------------------------| RF |
+|Número| Descrição                                 | Tipo |
+|:----:| :---------------------------------------: | :--: |
 | OB01 | O usuário deve ser capaz de buscar pelo jogo | RF |
 | OB02 | O usuário deve poder trocar o idioma do app  | RF |
 | OB03 | O usuário deve ser capaz de transmitir a tela | RF |
