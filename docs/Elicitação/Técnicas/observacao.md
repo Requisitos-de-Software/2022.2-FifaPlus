@@ -16,30 +16,30 @@
 &emsp;&emsp;Como resultado da técnica de observação, foram levantados os seguintes requisitos (Tabela 1) e (Tabela 2):
 
 ## 4.1 Requisitos Funcionais
-|Número|Requisitos Funcionais|
-|--|-----------------------------------------------|
-|01 | O usuário deve ser capaz de buscar pelo jogo  |
-|02 | O usuário deve poder trocar o idioma do app |
-|03 | O usuário deve ser capaz de transmitir a tela |
-|04 | O usuário deve poder escolher a qualidade do vídeo |
-|05 | O usuário deve poder usar a opção de tela cheia |
-|06 | O usuário deve ser capaz de ver os jogadores do time |
-|07 | O usuário deve ser capaz de ver o calendario dos jogos |
-|08 | O usuário  deve ser capaz de ver onde o jogo será transmitido |
-|09 | O usuário pode ver informações da conta |
-|10 | O usuário pode escolher bloquear assitir via dados de celular |
 
-###### Tabela 1: Requisitos Funcionais levantados pela técnica de observação. Fonte: Autoria própria.
+**Legenda**
+
+- OB: Requesitos de <span>Observação</span>
+- RF: Requisitos <span>Funcionais</span>
+- RNF: Requisitos não <span>Funcionais</span>
 
 
-### 4.2 Requisitos Não Funcionais
+|Número| Descrição                                 | Tipo |
+|--|-----------------------------------------------| RF |
+| OB01 | O usuário deve ser capaz de buscar pelo jogo  | RF |
+| OB02 | O usuário deve poder trocar o idioma do app | RF |
+| OB03 | O usuário deve ser capaz de transmitir a tela | RF |
+| OB04 | O usuário deve poder escolher a qualidade do vídeo | RF |
+| OB05 | O usuário deve poder usar a opção de tela cheia | RF |
+| OB06 | O usuário deve ser capaz de ver os jogadores do time | RF |
+| OB07 | O usuário deve ser capaz de ver o calendario dos jogos | RF |
+| OB08 | O usuário  deve ser capaz de ver onde o jogo será transmitido | RF |
+| OB09 | O usuário pode ver informações da conta | RF |
+| OB10 | O usuário pode escolher bloquear assitir via dados de celular | RF |
+| OB11 | O sistema deve possuir uma boa conexão com o servidor | RNF |
+| OB12 | O sistema deve possuir uma aba de melhores momentos| RNF |
 
-|Número|Requisitos Não Funcionais|
-|---|--|
-|01 | O sistema deve possuir uma boa conexão com o servidor |
-|02 | O sistema deve possuir uma aba de melhores momentos|
-
-###### Tabela 2: Requisitos não Funcionais levantados pela técnica de observação. Fonte: Autoria própria.
+###### Tabela 1: Requisitos Funcionais e Não Funcionais levantados pela técnica de observação. Fonte: Autoria própria.
 
 
 
@@ -52,3 +52,4 @@
 |    Data    | Versão |                     Descrição                     |        Autor(es)        | Revisor(es) |
 | :--------: | :----: | :-----------------------------------------------: | :---------------------: | :---------: |
 | 30/11/2022 |  1.0   |           Adicionada a segunda entrega            |     Wengel Rodrigues    |     Eric    |
+| 29/12/2022 |  1.1   |         Atualizada tabela de requisitos           |     Wengel Rodrigues    |    Thaigo   |

@@ -48,10 +48,6 @@ Na tabela 2 podemos ver o que foi realizado na Etapa 2.
 |      Casos de uso        | 11/12/2022 | 12/12/2022 |   Wengel e Charles   |        Wengel e Thiago        |
 |          Léxico          | 11/12/2022 | 12/12/2022 |     Thiago Borges    |           Eric Chagas         |
 
-
-
-
-
 ###### Tabela 3: Itens realizados na Etapa 3.. Fonte: Autoria própria.
 
 
