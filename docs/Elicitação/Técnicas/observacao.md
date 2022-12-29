@@ -24,10 +24,10 @@
 - RNF: Requisitos não <span>Funcionais</span>
 
 
-|Número| Descrição                                 | Tipo |
-|--|-----------------------------------------------| RF |
-| OB01 | O usuário deve ser capaz de buscar pelo jogo  | RF |
-| OB02 | O usuário deve poder trocar o idioma do app | RF |
+|Número| Descrição                                    |Tipo|
+|------|----------------------------------------------| RF |
+| OB01 | O usuário deve ser capaz de buscar pelo jogo | RF |
+| OB02 | O usuário deve poder trocar o idioma do app  | RF |
 | OB03 | O usuário deve ser capaz de transmitir a tela | RF |
 | OB04 | O usuário deve poder escolher a qualidade do vídeo | RF |
 | OB05 | O usuário deve poder usar a opção de tela cheia | RF |
