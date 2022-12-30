@@ -36,15 +36,15 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 
 ### 4.1 Etapa 1
 
-|       Atividade     |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
+|      Atividade      |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
 | :-----------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
-|     GitHub Pages    |     Eric Chagas      |     18/11/2022      | Todos os integrantes |     19/11/2022      |
+|    GitHub Pages     |     Eric Chagas      |     18/11/2022      | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     19/11/2022      |
 |       HeatMap       |  Raphaela Guimarães  |     20/11/2022      |    Thiago Borges     |     20/11/2022      |
-|      Ferramentas    |    Thiago Borges     |     20/11/2022      |   Rafael Fernandes   |     20/11/2022      |
-|     Rich picture    |    Thiago Borges     |     20/11/2022      |     Eric Chagas      |     20/11/2022      |
+|     Ferramentas     |    Thiago Borges     |     20/11/2022      |   Rafael Fernandes   |     20/11/2022      |
+|    Rich picture     |    Thiago Borges     |     20/11/2022      |     Eric Chagas      |     20/11/2022      |
 |       Roadmap       |   Wengel Rodrigues   |     21/11/2022      |     Eric Chagas      |     21/11/2022      |
-| Gravar Apresentação | Todos os integrantes |     21/11/2022      | Todos os integrantes |     21/11/2022      |
-| Editar Apresentação |     Eric Chagas      |     21/11/2022      |          -           |         -           |
+| Gravar Apresentação | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     21/11/2022      | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     21/11/2022      |
+| Editar Apresentação |     Eric Chagas      |     21/11/2022      |          -           |          -          |
 
 
 ###### Tabela 2: Cronograma da Etapa 1. Fonte: Autoria própria.
@@ -54,45 +54,47 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 |                    Atividade                    |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
 | :---------------------------------------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
 |               Técnicas planejadas               | Eric Chagas e Wengel |     28/11/2022      |    Thiago Borges     |     29/11/2022      |
-| Execução de técnicas (ser quebrada por técnica) | Todos os integrantes |     28/11/2022      | Todos os integrantes |     29/11/2022      |
-|                   Priorização                   |   Charles e  Rafael  |     28/11/2022      |  Raphaela Guimarães  |     29/11/2022      |
-|            Gravação da apresentação             | Todos os integrantes |     29/11/2022      |          -           |         -           |
-|             Edição da apresentação              |   Wengel Rodrigues   |     29/11/2022      |          -           |         -           |
+| Execução de técnicas (ser quebrada por técnica) | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     28/11/2022      | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     29/11/2022      |
+|                   Priorização                   |  Charles e  Rafael   |     28/11/2022      |  Raphaela Guimarães  |     29/11/2022      |
+|            Gravação da apresentação             | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     29/11/2022      |          -           |          -          |
+|             Edição da apresentação              |   Wengel Rodrigues   |     29/11/2022      |          -           |          -          |
 
 ###### Tabela 3: Cronograma da Etapa 2. Fonte: Autoria própria.
 
 ### 4.3 Etapa 3
 
-|         Atividade         |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
-| :-----------------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
-|       Casos de uso        |   Charles e Wengel   |     10/12/2022      |     Eric Chagas      |     11/11/2022      |
-|         Cenários          |  Raphaela Guimarães  |     10/12/2022      |   Wengel Rodrigues   |     11/11/2022      |
-|          Léxico           |    Thiago Borges     |     10/12/2022      |   Rafael Fernandes   |     11/11/2022      |
-| Especificação Suplementar |   Rafael Fernandes   |     10/12/2022      |     Eric Chagas      |     11/11/2022      |
-| Gravação da apresentação  | Todos os integrantes |     11/12/2022      |          -           |         -           |
-|  Edição da apresentação   |   Wengel Rodrigues   |     12/12/2022      |          -           |         -           |
+|         Atividade         |      Autor(es)       | Data Limite Entrega |   Revisor(es)    | Data Limite Revisão |
+| :-----------------------: | :------------------: | :-----------------: | :--------------: | :-----------------: |
+|       Casos de uso        |   Charles e Wengel   |     10/12/2022      |   Eric Chagas    |     11/11/2022      |
+|         Cenários          |  Raphaela Guimarães  |     10/12/2022      | Wengel Rodrigues |     11/11/2022      |
+|          Léxico           |    Thiago Borges     |     10/12/2022      | Rafael Fernandes |     11/11/2022      |
+| Especificação Suplementar |   Rafael Fernandes   |     10/12/2022      |   Eric Chagas    |     11/11/2022      |
+| Gravação da apresentação  | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     11/12/2022      |        -         |          -          |
+|  Edição da apresentação   |   Wengel Rodrigues   |     12/12/2022      |        -         |          -          |
 
 
 ###### Tabela 4: Cronograma da Etapa 3. Fonte: Autoria própria.
 
 ### 4.4 Etapa 4
 
-|         Atividade        |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
-| :----------------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
-|   Histórias de Usuário   |    Rafael e Wengel   |     02/01/2023      |     Eric Chagas      |     03/01/2023      |
-|         Backlog          |   Charles e  Eric    |     02/01/2023      |    Thiago Borges     |     03/01/2023      |
-|      NFR Framework       |  Raphaela Guimarães  |     02/01/2023      |        Charles       |     03/01/2023      |
-| Gravação da apresentação | Todos os integrantes |     02/01/2023      |          -           |         -           |
-|  Edição da apresentação  |   Wengel Rodrigues   |     03/01/2023      |          -           |         -           |
-
+|                         Atividade                         |                    Autor(es)                     | Data Limite Entrega |   Revisor(es)    | Data Limite Revisão |
+| :-------------------------------------------------------: | :----------------------------------------------: | :-----------------: | :--------------: | :-----------------: |
+|                   Histórias de Usuário                    |                 Rafael e Wengel                  |     02/01/2023      |   Eric Chagas    |     03/01/2023      |
+|                          Backlog                          |                 Charles e  Eric                  |     02/01/2023      |  Thiago Borges   |     03/01/2023      |
+|                       NFR Framework                       |                Raphaela e Thiago                 |     02/01/2023      |     Charles      |     03/01/2023      |
+|                 Gravação da apresentação                  | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     02/01/2023      |        -         |          -          |
+|                  Edição da apresentação                   |                  Eric e Wengel                   |     03/01/2023      |        -         |          -          |
+|            Adicionar página de atas de reunião            |                       Eric                       |     02/01/2023      | Rafael e Charles |     03/01/2023      |
+| Criar documento de resultados da elicitação de requisitos |                  Eric e Thiago                   |     02/01/2023      |     Charles      |     03/01/2023      |
+|                  Criar perfis de usuário                  |                  Charles e Eric                  |     02/01/2023      |     Raphaela     |     03/01/2023      |
 
 ###### Tabela 5: Cronograma da Etapa 4. Fonte: Autoria própria.
 
 ### 4.5 Etapa 5
 
-|         Atividade        |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
-| :----------------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
-|    Avaliação Grupo X     | Todos os integrantes |     07/01/2023      | Todos os integrantes |     08/01/2023      |
+|     Atividade     |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
+| :---------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
+| Avaliação Grupo X | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     07/01/2023      | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     08/01/2023      |
 
 
 
@@ -100,34 +102,34 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 
 ### 4.6 Etapa 6
 
-|         Atividade          |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
-| :------------------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
-| Verificação dos requisitos |   Charles e Rafael   |     13/01/2023      |  Raphaela Guimarães  |     14/01/2023      |
-|  Validação dos requisitos  |    Thiago e Wengel   |     13/01/2023      |     Eric Chagas      |     14/01/2023      |
-|  Gravação da apresentação  | Todos os integrantes |     14/01/2023      |          -           |         -           |
-|   Edição da apresentação   |   Wengel Rodrigues   |     15/01/2023      |          -           |         -           |
+|         Atividade          |      Autor(es)       | Data Limite Entrega |    Revisor(es)     | Data Limite Revisão |
+| :------------------------: | :------------------: | :-----------------: | :----------------: | :-----------------: |
+| Verificação dos requisitos |   Charles e Rafael   |     13/01/2023      | Raphaela Guimarães |     14/01/2023      |
+|  Validação dos requisitos  |   Thiago e Wengel    |     13/01/2023      |    Eric Chagas     |     14/01/2023      |
+|  Gravação da apresentação  | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     14/01/2023      |         -          |          -          |
+|   Edição da apresentação   |   Wengel Rodrigues   |     15/01/2023      |         -          |          -          |
 
 ###### Tabela 7: Cronograma da Etapa 6. Fonte: Autoria própria.
 
 ### 4.7 Etapa 7
 
-|                 Atividade                  |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
-| :----------------------------------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
-| Seção de Pós-Rastreabilidade (doc inicial) | Eric Chagas e Wengel |     20/01/2023      |  Raphaela Guimarães  |     21/01/2023      |
-|               Backward From                |  Raphael e Raphaela  |     20/01/2023      |     Eric Chagas      |     21/01/2023      |
-|                Forward From                |    Thiago e Charles  |     20/01/2023      |     Eric Chagas      |     21/01/2023      |
-|          Gravação da apresentação          | Todos os integrantes |     21/01/2023      |          -           |         -           |
-|           Edição da apresentação           |   Wengel Rodrigues   |     22/01/2023      |          -           |         -           |
+|                 Atividade                  |      Autor(es)       | Data Limite Entrega |    Revisor(es)     | Data Limite Revisão |
+| :----------------------------------------: | :------------------: | :-----------------: | :----------------: | :-----------------: |
+| Seção de Pós-Rastreabilidade (doc inicial) | Eric Chagas e Wengel |     20/01/2023      | Raphaela Guimarães |     21/01/2023      |
+|               Backward From                |  Raphael e Raphaela  |     20/01/2023      |    Eric Chagas     |     21/01/2023      |
+|                Forward From                |   Thiago e Charles   |     20/01/2023      |    Eric Chagas     |     21/01/2023      |
+|          Gravação da apresentação          | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     21/01/2023      |         -          |          -          |
+|           Edição da apresentação           |   Wengel Rodrigues   |     22/01/2023      |         -          |          -          |
 
 ###### Tabela 8: Cronograma da Etapa 7. Fonte: Autoria própria.
 
 ### 4.8 Etapa 8
-|                   Atividade                   |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
-| :-------------------------------------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
-|   Planejamento de verificação dos artefatos   |          -           |     29/01/2023      |          -           |     30/01/2023      |
-| Relato da verificação dos artefatos e ajustes |          -           |     29/01/2023      |          -           |     30/01/2023      |
-|           Gravação da apresentação            | Todos os integrantes |     30/01/2023      |          -           |         -           |
-|            Edição da apresentação             |   Wengel Rodrigues   |     31/01/2023      |          -           |         -           |
+|                   Atividade                   |      Autor(es)       | Data Limite Entrega | Revisor(es) | Data Limite Revisão |
+| :-------------------------------------------: | :------------------: | :-----------------: | :---------: | :-----------------: |
+|   Planejamento de verificação dos artefatos   |          -           |     29/01/2023      |      -      |     30/01/2023      |
+| Relato da verificação dos artefatos e ajustes |          -           |     29/01/2023      |      -      |     30/01/2023      |
+|           Gravação da apresentação            | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     30/01/2023      |      -      |          -          |
+|            Edição da apresentação             |   Wengel Rodrigues   |     31/01/2023      |      -      |          -          |
 
 ###### Tabela 9: Cronograma da Etapa 8. Fonte: Autoria própria.
 
@@ -143,11 +145,11 @@ Entregas do Projeto de Requisitos. Disponível em: <https://aprender3.unb.br/cou
 
 ## Histórico de versão do arquivo
 
-|    Data    | Versão |                Descrição                |                  Autor(es)              | Revisor(es) |
+|    Data    | Versão |                Descrição                |                Autor(es)                | Revisor(es) |
 | :--------: | :----: | :-------------------------------------: | :-------------------------------------: | ----------- |
-| 21/11/2022 |  1.0   | Versão inicial do cronograma do projeto |            Wengel Rodrigues             |    Wengel   |
-| 21/11/2022 |  1.1   |          Adicionado o Heatmap           | Raphaela Guimarães de Araújo dos Santos |     Eric    |
-| 26/11/2022 |  1.2   |          Inclusão das outras etapas     |            Wengel Rodrigues             |    Wengel   |
-| 29/11/2022 |  1.3   |          Ajustes no cronograma          |            Wengel Rodrigues             |    Thiago   |
+| 21/11/2022 |  1.0   | Versão inicial do cronograma do projeto |            Wengel Rodrigues             | Wengel      |
+| 21/11/2022 |  1.1   |          Adicionado o Heatmap           | Raphaela Guimarães de Araújo dos Santos | Eric        |
+| 26/11/2022 |  1.2   |       Inclusão das outras etapas        |            Wengel Rodrigues             | Wengel      |
+| 29/11/2022 |  1.3   |          Ajustes no cronograma          |            Wengel Rodrigues             | Thiago      |
 
 ###### Tabela 10 - Histórico de versões. Fonte: Autoria própria.

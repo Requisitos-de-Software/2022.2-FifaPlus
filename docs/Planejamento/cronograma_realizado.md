@@ -24,16 +24,16 @@ Na tabela 1 podemos ver o que foi realizado na Etapa 1.
 
 Na tabela 2 podemos ver o que foi realizado na Etapa 2.
 
-|        Atividade         |  Entrega   |  Revisão   |      Autor(es)       |          Revisor(es)          |
-| :----------------------: | :--------: | :--------: | :------------------: | :---------------------------: |
-|      Escala de três      | 30/11/2022 | 30/11/2022 |     Eric Chagas      |         Wengel Rodrigues      |
-|         MoSCoW           | 30/11/2022 | 30/10/2022 |        Rafael        |           Eric Chagas         |
-|       Observação         | 30/11/2022 | 30/10/2022 |   Wengel Rodrigues   |           Eric Chagas         |
-|       Storytelling       | 30/11/2022 | 30/10/2022 |     Thiago Borges    |           Eric Chagas         |
-|      Brainstorming       | 30/11/2022 | 30/10/2022 |     Thiago Borges    |           Eric Chagas         |
-|        Personas          | 30/11/2022 | 30/10/2022 |        Charles       |         Thiago Borges         |
-|      Introspecção        | 30/11/2022 | 30/10/2022 |  Raphaela Guimarães  |        Rafael Fernandes       |          
-| Gravação da apresentação | 30/11/2022 |     -      | Todos os integrantes |               -               |
+|        Atividade         |  Entrega   |  Revisão   |                    Autor(es)                     |                   Revisor(es)                    |
+| :----------------------: | :--------: | :--------: | :----------------------------------------------: | :----------------------------------------------: |
+|      Escala de três      | 30/11/2022 | 30/11/2022 |                   Eric Chagas                    |                 Wengel Rodrigues                 |
+|          MoSCoW          | 30/11/2022 | 30/10/2022 |                      Rafael                      |                   Eric Chagas                    |
+|        Observação        | 30/11/2022 | 30/10/2022 |                 Wengel Rodrigues                 |                   Eric Chagas                    |
+|       Storytelling       | 30/11/2022 | 30/10/2022 |                  Thiago Borges                   |                   Eric Chagas                    |
+|      Brainstorming       | 30/11/2022 | 30/10/2022 |                  Thiago Borges                   |                   Eric Chagas                    |
+|         Personas         | 30/11/2022 | 30/10/2022 |                     Charles                      |                  Thiago Borges                   |
+|       Introspecção       | 30/11/2022 | 30/10/2022 |                Raphaela Guimarães                |                 Rafael Fernandes                 |
+| Gravação da apresentação | 30/11/2022 |     -      | Charles, Eric, Rafael, Raphaela, Thiago e Wengel | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |
 
 ###### Tabela 2: Itens realizados na Etapa 2.. Fonte: Autoria própria.
 
