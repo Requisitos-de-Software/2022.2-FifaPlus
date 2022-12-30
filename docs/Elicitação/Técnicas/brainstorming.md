@@ -27,12 +27,12 @@ Abaixo segue a tabela 2 com os requisitos levantados pelo domínio **Melhores Mo
 
 | ID |                           Requisitos levantados                           |Tipo de requisitos  | 
 |:------:|:-------------------------------------------------------------------------:|:------:|
-|   REQ01    |         O usuário deve ser capaz de acessar os melhores momentos do dia. |RNF|
-|   REQ02    |         O usuário deve ser capaz de acessar os melhores momentos da partida. |RNF |
-|   REQ03    |         O usuário deve ser capaz de compartilhar os melhores momentos da partida. |RF|
-|   REQ04    |         O usuário deve ser capaz de avaliar os melhores momentos da partida.     |RF|
-|   REQ05    |         O usuário deve ser capaz de compartilhar o video de melhores momentos da partida na sua TV.| RF |
-|   REQ06    |         O usuário deve ser capaz de visualizar os melhores momentos de todos os grupo   |  RNF |
+|   B01    |         O usuário deve ser capaz de acessar os melhores momentos do dia. |RNF|
+|   B02    |         O usuário deve ser capaz de acessar os melhores momentos da partida. |RNF |
+|   B03    |         O usuário deve ser capaz de compartilhar os melhores momentos da partida. |RF|
+|   B04    |         O usuário deve ser capaz de avaliar os melhores momentos da partida.     |RF|
+|   B05    |         O usuário deve ser capaz de compartilhar o video de melhores momentos da partida na sua TV.| RF |
+|   B06    |         O usuário deve ser capaz de visualizar os melhores momentos de todos os grupo   |  RNF |
 
 
 </center>
@@ -44,16 +44,16 @@ Abaixo segue a tabela 3 com os requisitos levantados pelo domínio **Equipes**:
 
 | ID |                               Requisitos levantados                               |Tipo de requisitos  | 
 |:------:|:---------------------------------------------------------------------------------:|:------:|
-|   REQ01    |          O usuário deve ser capaz de visualizar a bandeira de todas as seleções. |RNF|
-|   REQ02    |          O usuário deve ser capaz de visualizar todas as seleções. |RNF|
-|   REQ03    |          O usuário deve ser capaz de visualizar as noticias especificas de cada seleção. |RNF|
-|   REQ04    |          O usuário deve ser capaz de visualizar o calendário de todas as seleções. |RNF|
-|   REQ05    |          O usuário deve ser capaz de visualizar as estatísticas especificas de cada seleção. |RNF|
-|   REQ06    |          O usuário deve ser capaz de visualizar o elenco especifico de cada seleção. |RNF|
-|   REQ07    |          O usuário deve ser capaz de visualizar a quantidade de gols de cada jogador.|RNF|
-|   REQ08    |          O usuário deve ser capaz de visualizar a quantidade de passes de cada jogador.|RNF|
-|   REQ09    |          O usuário deve ser capaz de visualizar a quantidade de cruzamentos de cada jogador.|RNF|
-|   REQ10    |          O usuário deve ser capaz de visualizar o brasão de todas as seleções. |RNF|
+|   B07    |          O usuário deve ser capaz de visualizar a bandeira de todas as seleções. |RNF|
+|   B08    |          O usuário deve ser capaz de visualizar todas as seleções. |RNF|
+|   B09    |          O usuário deve ser capaz de visualizar as noticias especificas de cada seleção. |RNF|
+|   B10    |          O usuário deve ser capaz de visualizar o calendário de todas as seleções. |RNF|
+|   B11    |          O usuário deve ser capaz de visualizar as estatísticas especificas de cada seleção. |RNF|
+|   B12    |          O usuário deve ser capaz de visualizar o elenco especifico de cada seleção. |RNF|
+|   B13    |          O usuário deve ser capaz de visualizar a quantidade de gols de cada jogador.|RNF|
+|   B14    |          O usuário deve ser capaz de visualizar a quantidade de passes de cada jogador.|RNF|
+|   B15    |          O usuário deve ser capaz de visualizar a quantidade de cruzamentos de cada jogador.|RNF|
+|   B16    |          O usuário deve ser capaz de visualizar o brasão de todas as seleções. |RNF|
 
 
 </center>
@@ -65,11 +65,11 @@ Abaixo segue a tabela 4 com os requisitos levantados pelo domínio **Pontuação
 
 | ID |               Requisitos levantados                |Tipo de requisitos  | 
 |:------:|:--------------------------------------------------:|:------:|
-|   REQ01    |        O usuário deve ser capaz de visualizar a quantidade de gols de seleção.     | RNF|
-|   REQ02    |        O usuário deve ser capaz de visualizar o horário de jogo de cada seleção. | RNF|
-|   REQ03    |        O usuário deve ser capaz de visualizar o horário de jogo de cada seleção dependendo do seu pais de origem. | RF |
-|   REQ04    |        O usuário deve ser capaz de visualizar o ganhador de cada jogo. | RNF |
-|   REQ05    |        O usuário deve ser capaz de visualizar os jogos futuros de todas as seleções.| RNF |
+|   B17    |        O usuário deve ser capaz de visualizar a quantidade de gols de seleção.     | RNF|
+|   B18    |        O usuário deve ser capaz de visualizar o horário de jogo de cada seleção. | RNF|
+|   B19    |        O usuário deve ser capaz de visualizar o horário de jogo de cada seleção dependendo do seu pais de origem. | RF |
+|   B20    |        O usuário deve ser capaz de visualizar o ganhador de cada jogo. | RNF |
+|   B21    |        O usuário deve ser capaz de visualizar os jogos futuros de todas as seleções.| RNF |
 
 </center>
 <h6 align = "center">Tabela 4: Requisitos de Pontuação e Jogos</h6>
@@ -80,11 +80,11 @@ Abaixo segue a tabela 5 com os requisitos levantados pelo domínio **Bolão**:
 
 | ID |               Requisitos levantados               |Tipo de requisitos  | 
 |:------:|:-------------------------------------------------:|:------:|
-|   REQ01    |         O usuário deve ser capaz de escolher seleção favorita a ganhar a copa.      |    RF  |
-|   REQ02    |         O usuário deve ser capaz de escolher seleção favorita a ganhar o jogo.  |    RF  |
-|   REQ03    |         O usuário deve ser capaz de escolher o saldo de gols de cada jogo. |    RF  |
-|   REQ04    |         O usuário deve ser capaz de escolher a estrela da partida. |    RF  |
-|   REQ05    |         O usuário deve ser capaz acumular pontos com palpites do jogos.  |   RF  |
+|   B22    |         O usuário deve ser capaz de escolher seleção favorita a ganhar a copa.      |    RF  |
+|   B23    |         O usuário deve ser capaz de escolher seleção favorita a ganhar o jogo.  |    RF  |
+|   B24    |         O usuário deve ser capaz de escolher o saldo de gols de cada jogo. |    RF  |
+|   B25    |         O usuário deve ser capaz de escolher a estrela da partida. |    RF  |
+|   B26    |         O usuário deve ser capaz acumular pontos com palpites do jogos.  |   RF  |
 
 </center>
 <h6 align = "center">Tabela 5: Requisitos de Bolão</h6>
@@ -95,11 +95,11 @@ Abaixo segue a tabela 6 com os requisitos levantados pelo domínio **Cadastro**:
 
 | ID |             Requisitos levantados              | Tipo de requisitos  | 
 |:------:|:----------------------------------------------:|:------:|
-|   REQ01    |         O usuário deve ser capaz de cadastrar email.   |   RF  |
-|   REQ02    |         O usuário deve ser capaz de cadastrar senha.      | RF  |
-|   REQ03    |         Deve ser possível reenviar e-mail de validação | RF  |
-|   REQ04    |         O usuário deve ser capaz  alterar email         | RF  |
-|   REQ05    |         O usuário deve ser capaz  alterar senha         | RF  |
+|   B27    |         O usuário deve ser capaz de cadastrar email.   |   RF  |
+|   B28    |         O usuário deve ser capaz de cadastrar senha.      | RF  |
+|   B29    |         Deve ser possível reenviar e-mail de validação | RF  |
+|   B30    |         O usuário deve ser capaz  alterar email         | RF  |
+|   B31    |         O usuário deve ser capaz  alterar senha         | RF  |
 
 
 
@@ -112,9 +112,9 @@ Abaixo segue a tabela 7 com os requisitos levantados pelo domínio **Login**:
 
 | ID |         Requisitos levantados         |  Tipo de requisitos  | 
 |:------:|:-------------------------------------:|:------:| 
-|   REQ01    | O usuário deve ser capaz de inserir Login.   |   RF  |
-|   REQ02    | O usuário deve ser capaz de inserir uma senha. |   RF  |
-|   REQ03    | O usuário deve ser capaz de escolher uma nova senha. |   RNF |
+|   B32    | O usuário deve ser capaz de inserir Login.   |   RF  |
+|   B33    | O usuário deve ser capaz de inserir uma senha. |   RF  |
+|   B34    | O usuário deve ser capaz de escolher uma nova senha. |   RNF |
 
 </center>
 <h6 align = "center">Tabela 7: Requisitos de Login</h6>
@@ -123,7 +123,7 @@ Abaixo segue a tabela 7 com os requisitos levantados pelo domínio **Login**:
 
 * RF - Requisito Funcional
 * RNF - Requisito Não-Funcional
-* REQ - Requisito + (Numero)
+* B - Requisito de Brainstorming
 
 
 
@@ -140,3 +140,4 @@ Abaixo segue a tabela 7 com os requisitos levantados pelo domínio **Login**:
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
 |  1.0   | 30/11/2022 | Criação do escopo do documento  |     Thiago Cerqueira     | Eric Chagas |
 |  1.1   | 30/11/2022 | Adicionando mais informações da reunião  |     Thiago Cerqueira     | Eric Chagas |
+|  1.2   | 30/12/2022 | Atualizado legenda e Id dos requisitos   |     Wengel Rodrigues     |    Thiago   |

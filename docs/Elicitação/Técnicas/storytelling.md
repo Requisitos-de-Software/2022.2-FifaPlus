@@ -49,6 +49,8 @@ Com caráter persuasivo, o principal objetivo do uso de storytelling é não som
 
 #### Requisitos elicitados
 
+**Legenda**
+
 - ST: Requisitos de<span>Storytelling</span>
 - RF: Requisitos <span>Funcionais</span>
 - RNF: Requisitos não <span>Funcionais</span>
