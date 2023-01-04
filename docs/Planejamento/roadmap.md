@@ -151,5 +151,6 @@ Entregas do Projeto de Requisitos. Disponível em: <https://aprender3.unb.br/cou
 | 21/11/2022 |  1.1   |          Adicionado o Heatmap           | Raphaela Guimarães de Araújo dos Santos | Eric        |
 | 26/11/2022 |  1.2   |       Inclusão das outras etapas        |            Wengel Rodrigues             | Wengel      |
 | 29/11/2022 |  1.3   |          Ajustes no cronograma          |            Wengel Rodrigues             | Thiago      |
+| 29/12/2022 |  1.4   |          Ajustes no cronograma          |               Eric Chagas               | Thiago      |
 
 ###### Tabela 10 - Histórico de versões. Fonte: Autoria própria.
