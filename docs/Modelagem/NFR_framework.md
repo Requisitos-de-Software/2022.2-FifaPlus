@@ -69,7 +69,6 @@ ilustrados(figura 2)</p>
 <p> Figura 7: NFR de Performance (Fonte: Autoria própria).</p>
 
 
-Dissertação de mestrado: "NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados" de Reinaldo Antônio da Silva, de 2019.
 
 ## 4. Referências
 
@@ -82,3 +81,4 @@ Dissertação de mestrado: "NFR4ES: um Catálogo de Requisitos Não-Funcionais p
 | Data |   Versão    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
 |  03/01/2023  | 1.0 | Criação do escopo do documento  |     Thiago Cerqueira     | Charles |
+|  03/01/2023  | 1.1 | Tirando frases desnecessárias |     Thiago Cerqueira     | Charles |
