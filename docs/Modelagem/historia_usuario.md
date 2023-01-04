@@ -104,6 +104,33 @@ Para a elaboração das histórias de usuário foi contruído um modelo padrão,
 ### Feature 4 - Transmissão e Vídeos
 
 
+| **US08** | **Ver Melhores  Momentos** |
+| :------: | :---------: |
+| Descrição | _Eu, como_ usuário, _desejo_ visualizar os melhores momentos _para que eu possa_ ver os lances mais importantes do jogo |
+| Critérios de Aceitação | Deve conter as seguintes opções:<br>> Ver melhores momentos do dia<br>> Ver melhores momentos da partida<br>> Compartilhar os melhores momentos da partida.<br>> Ser capaz de avaliar os melhores momentos da partida |
+
+<div style="text-align: center">
+<p> Tabela 9: História de usuário 8 (Fonte: autores, 2022).</p>
+</div>
+
+| **US09** | **Replay dos Jogos** |
+| :------: | :---------: |
+| Descrição | _Eu, como_ usuário, _desejo_ ver o replay do jogo _para que eu possa_ ver jogo mesmo que não seja ao vivo |
+| Critérios de Aceitação | Deve conter as seguintes opções:<br> Buscar pelo jogo<br>> Capaz de transmitir a tela<br>> Escolher a qualidade do vídeo<br>> Poder usar a opção de tela cheia |
+
+<div style="text-align: center">
+<p> Tabela 10: História de usuário 9 (Fonte: autores, 2022).</p>
+</div>
+
+| **US10** | **Ver Jogos ao Vivo** |
+| :------: | :---------: |
+| Descrição | _Eu, como_ usuário, _desejo_ visualizar o jogo ao vivo _para que eu possa_ acompanhar o jogo  |
+| Critérios de Aceitação | Deve conter as seguintes opções:<br> Buscar pelo jogo<br>> Capaz de transmitir a tela<br>> Escolher a qualidade do vídeo<br>> Ser capaz de ver onde o jogo será transmitido<br>> Poder usar a opção de tela cheia |
+
+<div style="text-align: center">
+<p> Tabela 11: História de usuário 10 (Fonte: autores, 2022).</p>
+</div>
+
 
 ## Bibliografia
 
@@ -116,3 +143,4 @@ Para a elaboração das histórias de usuário foi contruído um modelo padrão,
 |    Data    | Versão |                     Descrição                     |        Autor(es)        | Revisor(es) |
 | :--------: | :----: | :-----------------------------------------------: | :---------------------: | :---------: |
 | 31/12/2022 |  1.0   |           Criação inicial do documento            |     Wengel Rodrigues    |   Thiago    |
+| 04/01/2023 |  1.1   |           Adicionado feature 4                    |     Wengel Rodrigues    |   Eric      |
