@@ -20,9 +20,9 @@ A listagem dos requisitos segue o seguinte padrão de identificação e rastreab
 
 Esse padrão foi utilizado para que seja fornecida uma visão ampla e descritiva acerca do método utilizado para elicitar determinado requisito, sua descrição e sua condição de reqisito funcional ou não funcional.
 
-#### 2.1.1 Requisitos Funcionais
+#### 2.1.1 Requisitos Não Funcionais
 
-Na (Tabela 1) podem ser visualizados todos os requisitos funcionais elicitados.
+Na (Tabela 2) podem ser visualizados todos os requisitos funcionais elicitados.
 
 |  ID  |                                                 Descrição                                                 | Tipo |
 | :--: | :-------------------------------------------------------------------------------------------------------: | :--: |
