@@ -20,7 +20,7 @@ A listagem dos requisitos segue o seguinte padrão de identificação e rastreab
 
 Esse padrão foi utilizado para que seja fornecida uma visão ampla e descritiva acerca do método utilizado para elicitar determinado requisito, sua descrição e sua condição de reqisito funcional ou não funcional.
 
-#### 2.1.1 Requisitos Não Funcionais
+#### 2.1.1 Requisitos Funcionais
 
 Na (Tabela 2) podem ser visualizados todos os requisitos funcionais elicitados.
 
@@ -55,9 +55,9 @@ Na (Tabela 2) podem ser visualizados todos os requisitos funcionais elicitados.
 
 ###### Tabela 1: Requisitos Funcionais. Fonte: Autoria própria.
 
-#### 2.1.2 Requisitos Funcionais
+#### 2.1.2 Requisitos não Funcionais
 
-Na (Tabela 1) podem ser visualizados todos os requisitos funcionais elicitados.
+Na (Tabela 1) podem ser visualizados todos os requisitos não funcionais elicitados.
 
 |  ID  |                                                        Descrição                                                        | Tipo |
 | :--: | :---------------------------------------------------------------------------------------------------------------------: | :--: |
@@ -110,6 +110,8 @@ Essas áreas serão utilizadas para a formação das histórias de usuário e do
 
 ## 4. Histórico de versão
 
-|    Data    | Versão |                          Descrição                                   |  Autor(es)      | Revisor(es)      |
-| :--------: | :----: | :------------------------------------------------------------------: | :-------------: | :--------------: |
+|    Data    | Versão |                               Descrição                               |  Autor(es)  |   Revisor(es)   |
+| :--------: | :----: | :-------------------------------------------------------------------: | :---------: | :-------------: |
 | 03/11/2022 |  1.0   | Criação da página e adição do conteúdo sobre os requisitos elicitados | Eric Chagas | Charles Serafim |
+| 04/11/2022 |  1.1   |                           Ajustes no texto                            | Eric Chagas | Charles Serafim |
+

@@ -4,7 +4,7 @@
 
 !!! info "Acesse o vídeo de apresentação"
     
-    O vídeo de apresentação da etapa de planejamento do projeto pode ser acessado através do link:
+    O vídeo de apresentação da etapa pode ser acessado através do link:
   
     - [Apresentação da entrega 2](https://youtu.be/CAyRSHViZ4M)
 
