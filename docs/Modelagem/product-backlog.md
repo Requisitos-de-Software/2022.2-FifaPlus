@@ -12,6 +12,7 @@ Nas seções seguintes, definimos o modelo de representação e apresentamos o *
 
 ### 2.1. Estrutura
 Para o *backlog de produto*, utilizaremos as seguintes categorias para facilitar a descrição das funcionalidades e histórias de usuário:
+
 - **Épico:** Conjunto de funcionalidades que tem pontos em comum ou fazem parte de um mesmo módulo
 - **Feature:** A funcionalidade descrita
 - **Rastreabilidade:** Os requisitos já listado ao qual a feature e a história de usuário estão relacionadas
@@ -26,9 +27,9 @@ Na Tabela 1, apresentamos o modelo a ser utilizado para descrever o *product bla
 <p>Tabela 1: Modelo para o backlog de produto</p>
 </div>
 
-| Épico              | Feature              | US_ID                                | História de usuário | Rastreabilidade               | Prioridade              |
-| :----------------- | :------------------- | :----------------------------------- | :------------------ | :---------------------------- | ----------------------- |
-| O épico em questão | A feature em questão | O ID utilizado para identificar a US | Nome da US          | O ID do requisito relacionado | Prioridade do requisito |
+| Épico              | Feature              | US_ID                                | História de usuário | Rastreabilidade               |
+| :----------------- | :------------------- | :----------------------------------- | :------------------ | :---------------------------- |
+| O épico em questão | A feature em questão | O ID utilizado para identificar a US | Nome da US          | O ID do requisito relacionado |
 
 <div align="center" style="text-align: center">
 <p>Fonte: Autoria própria</p>
