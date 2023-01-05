@@ -3,9 +3,10 @@
 ## 1. Introdução
 &emsp;&emsp;A especificação suplementar descreve os requisitos não-funcionais que não foram englobados nos outros artefatos que especificam requisitos, como nos casos de uso.
 É possível capturar com essa técnica:
-- Requisitos legais e de regulamentação e padrões de aplicativo;
-- Atributos de qualidade do sistema a ser criado, incluindo requisitos de usabilidade, confiabilidade, desempenho e suportabilidade;
-- Outros requisitos, como aqueles para os sistemas e ambientes operacionais, compatibilidade com outro software e restrições de design.
+
+- Requisitos legais e de regulamentação e padrões de aplicativo
+- Atributos de qualidade do sistema a ser criado, incluindo requisitos de usabilidade, confiabilidade, desempenho e suportabilidade
+- Outros requisitos, como aqueles para os sistemas e ambientes operacionais, compatibilidade com outro software e restrições de design
  
 
 &emsp;&emsp;Pode-se entender, por tanto, cenários como situações de interações entre usuários ou agentes externos com o sistema em desenvolvimento, e possívelmente suas interações com sistemas semelhantes. Essas interações consistem em atividades reais e concretas que o usuário possívelmente buscaria completar no sistema, e por fornecerem essa visão do usuário, podem facilitar o processo de descoberta de novos requisitos, ou de desconsideração de requisitos já elicitados, com base nas necessidades e dificuldades identificadas durante o fluxo do usuário pelo sistema.
@@ -14,6 +15,7 @@
 ## 2. FURPS+
 
 &emsp;&emsp;O FURPS+ é um modelo em que cada letra significa uma categoria de requisitos:
+
 - Funcionality
 - Usability
 - Reliability
@@ -27,6 +29,7 @@
 ## 2.2 U - Usability - Usabilidade
 
 &emsp;&emsp;É o atributo que avalia a interface com o usuário. Possui diversas subcategorias, entre elas:
+
 - Prevenção de erros.
 - Ajudas.
 - Consistência.
@@ -36,6 +39,7 @@
 ## 2.3 R - Reliability - Confiabilidade
 
 &emsp;&emsp;São requisitos relacionados à integridade e interoperabilidade (comunicação com outros sistemas) do software. Exemplos:
+
 - Frequência de falhas.
 - Possibilidade de recuperação.
 - Duração da falha.
@@ -45,6 +49,7 @@
 ## 2.4 P - Performance - Performance
 
 &emsp;&emsp;São requisitos relacionados ao desempenho do software. Exemplos:
+
 - Tempo de resposta.
 - Consumo de recursos.
 - Escalabilidade.
@@ -53,6 +58,7 @@
 ## 2.5 S - Suportability - Suportabilidade
 
 &emsp;&emsp;São requisitos relacionados a capacidade de suporte do software, tanto para consigo mesmo, quanto para o usuário. Exemplos:
+
 - Testabilidade.
 - Adaptabilidade.
 - Manutenibilidade.
@@ -63,6 +69,7 @@
 ## 2.6 +
 
 &emsp;&emsp;Com a evolução do FURPS, foram encontradas algumas outras categorias para requisitos de software, tais como:
+
 - Design: restringem o design de um sistema. Exemplos: padrões de design, processo de desenvolvimento de software, uso de ferramentas de desenvolvimento etc.
 - Implementação: restringem a construção/código do software. Exemplos: linguagens de programação, políticas de integridade do banco de dados, ambientes operacionais etc.
 
