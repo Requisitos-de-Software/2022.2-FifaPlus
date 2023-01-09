@@ -51,7 +51,7 @@ Os diagramas NFR possuem elementos básicos dos NFR Framework (Fluxo, softgoals,
 <p> Tabela 1 - Perguntas relacionadas ao checklist (Fonte: Repositório do Exercito Brasileiro).</p>
 
 
-# Inspeção
+## 3. Inspeção
 
 | Questões | Usabilidade | Desempenho | Confiabilidade | Suportabilidade |
 |--------|---|---|---|---|
@@ -73,7 +73,7 @@ Os diagramas NFR possuem elementos básicos dos NFR Framework (Fluxo, softgoals,
 
 
 
-## 12. Referências
+## 4. Referências
 
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10. Acesso em: 08 de jan. de 2023;
 > - (SILVA, 2019, p. 30). Acesso em: 08 de jan. de 2023.
@@ -83,7 +83,7 @@ Os diagramas NFR possuem elementos básicos dos NFR Framework (Fluxo, softgoals,
 
 
 
-## 13. Histórico de Versão
+## 5. Histórico de Versão
 | Data |   Versão    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
 |  08/01/2023  | 1.0 | Criação do escopo do documento  |     Thiago Cerqueira     | Charles |

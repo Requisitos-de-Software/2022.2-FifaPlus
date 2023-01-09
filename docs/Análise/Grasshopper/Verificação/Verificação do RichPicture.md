@@ -49,7 +49,7 @@ Os Rich pictures possuem elementos básicos dos Rich pictures (Fronteira, relaci
 <p> Tabela 1 - Perguntas relacionadas ao checklist (Fonte: Plano de Ensino).</p>
 
 
-# 4. Inspeção
+## 4. Inspeção
 
 |Questões|Versão 1|Versão 2|
 |--------|---|---|
@@ -66,7 +66,7 @@ Os Rich pictures possuem elementos básicos dos Rich pictures (Fronteira, relaci
 <p> Tabela 2 - Checklist do Rich Picture V.02 (Fonte: Plano de Ensino).</p>
 
 
-## 12. Referências
+## 5. Referências
 
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10. Acesso em: 08 de jan. de 2023;
 > - (SILVA, 2019, p. 30). Acesso em: 08 de jan. de 2023.
@@ -74,7 +74,7 @@ Os Rich pictures possuem elementos básicos dos Rich pictures (Fronteira, relaci
 
 
 
-## 13. Histórico de Versão
+## 6. Histórico de Versão
 | Data |   Versão    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
 |  08/01/2023  | 1.0 | Criação do escopo do documento  |     Thiago Cerqueira     | Charles |
