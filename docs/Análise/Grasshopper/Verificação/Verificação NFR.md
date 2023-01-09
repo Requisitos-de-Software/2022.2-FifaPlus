@@ -59,7 +59,7 @@ Os diagramas NFR possuem elementos básicos dos NFR Framework (Fluxo, softgoals,
 | Os softgoals condizem com o contexto? |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | Existem softgoals suficientes no diagrama para representar o contexto? |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | Os impactos foram corretamente propagados?  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| As operacionalizações condizem com o contexto? |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| As operacionalizações condizem com o contexto? |✔️|✔️|✔️|✔️|
 | Existem operacionalizações suficientes no diagrama para representar o contexto? |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | Existem claims suficientes para que se entenda o diagrama? |:x:|:x:|:x:|:x:|
 | As claims estão bem escritas? |:x:|:x:|:x:|:x:|
@@ -87,3 +87,4 @@ Os diagramas NFR possuem elementos básicos dos NFR Framework (Fluxo, softgoals,
 | Data |   Versão    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
 |  08/01/2023  | 1.0 | Criação do escopo do documento  |     Thiago Cerqueira     | Charles |
+✔️✔️✔️✔️✔️✔️✔️✔️✔️
