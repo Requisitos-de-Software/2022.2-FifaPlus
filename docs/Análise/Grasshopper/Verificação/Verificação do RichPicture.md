@@ -53,15 +53,15 @@ Os Rich pictures possuem elementos básicos dos Rich pictures (Fronteira, relaci
 
 |Questões|Versão 1|Versão 2|
 |--------|---|---|
-| As **informações necessárias** foram representadas na figura? |:heavy_check_mark:|:heavy_check_mark:|
-| Inclui todos os **atores/stakeholders** da aplicação? |:heavy_check_mark:|:heavy_check_mark:|
-| Possui **legenda**? | :heavy_check_mark:|:heavy_check_mark:|
-| Possui todos os componentes representados com os **símbolos corretos**? |:heavy_check_mark:|:heavy_check_mark:|
-| A organização segue um **fluxo fácil** de ser entendido? | :heavy_check_mark:|:heavy_check_mark:|
-| As setas **indicam o fluxo** corretamente? |:heavy_check_mark:|:heavy_check_mark:|
-| A fronteira foi **definida**? |:heavy_check_mark:|:heavy_check_mark:|
-| Os atores/stakeholders estão **fora da fronteira**? | :heavy_check_mark:|:heavy_check_mark:|
-| Possui elementos em **foco principal**? |:heavy_check_mark:|:heavy_check_mark:|
+| As **informações necessárias** foram representadas na figura? |✔️|✔️|
+| Inclui todos os **atores/stakeholders** da aplicação? |✔️|✔️|
+| Possui **legenda**? |✔️|✔️|
+| Possui todos os componentes representados com os **símbolos corretos**? |✔️|✔️|
+| A organização segue um **fluxo fácil** de ser entendido? |✔️|✔️|
+| As setas **indicam o fluxo** corretamente? |✔️|✔️|
+| A fronteira foi **definida**? |✔️|✔️|
+| Os atores/stakeholders estão **fora da fronteira**? |✔️|✔️|
+| Possui elementos em **foco principal**? |✔️|✔️|
 
 <p> Tabela 2 - Checklist do Rich Picture V.02 (Fonte: Plano de Ensino).</p>
 

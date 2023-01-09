@@ -53,20 +53,20 @@ Os diagramas NFR possuem elementos básicos dos NFR Framework (Fluxo, softgoals,
 
 # Inspeção
 
-| Questões | Geral | Performance | Segurança | Disponibilidade |
+| Questões | Usabilidade | Desempenho | Confiabilidade | Suportabilidade |
 |--------|---|---|---|---|
-| O fluxo do diagrama está bem representado? |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| Os softgoals condizem com o contexto? |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| Existem softgoals suficientes no diagrama para representar o contexto? |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| Os impactos foram corretamente propagados?  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| O fluxo do diagrama está bem representado? |✔️|✔️|✔️|✔️|
+| Os softgoals condizem com o contexto? |✔️|✔️|✔️|✔️|
+| Existem softgoals suficientes no diagrama para representar o contexto? |✔️|✔️|✔️|✔️|
+| Os impactos foram corretamente propagados?  |✔️|✔️|✔️|✔️|
 | As operacionalizações condizem com o contexto? |✔️|✔️|✔️|✔️|
-| Existem operacionalizações suficientes no diagrama para representar o contexto? |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| Existem claims suficientes para que se entenda o diagrama? |:x:|:x:|:x:|:x:|
-| As claims estão bem escritas? |:x:|:x:|:x:|:x:|
-| As contribuições "AND" estão corretamente representadas e aplicadas? |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| As contribuições "OR" estão corretamente representadas e aplicadas? |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| As contribuições positivas estão corretamente representadas? |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| As contribuições entre ramos diferentes estão corretamente representadas? |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| Existem operacionalizações suficientes no diagrama para representar o contexto? |✔️|✔️|✔️|✔️|
+| Existem claims suficientes para que se entenda o diagrama? |❌|❌|❌|❌|
+| As claims estão bem escritas? |❌|❌|❌|❌|
+| As contribuições "AND" estão corretamente representadas e aplicadas? |✔️|✔️|✔️|✔️|
+| As contribuições "OR" estão corretamente representadas e aplicadas? |✔️|✔️|✔️|✔️|
+| As contribuições positivas estão corretamente representadas? |✔️|✔️|✔️|✔️|
+| As contribuições entre ramos diferentes estão corretamente representadas? |✔️|✔️|✔️|✔️|
 
 
 <p> Tabela 2 - Checklist do NFR (Fonte: Repositório do Exercito Brasileiro).</p>
