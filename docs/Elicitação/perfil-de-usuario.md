@@ -288,4 +288,4 @@ Segue abaixo os perfis definidos com suas respectivas características:
 
 |    Data    | Versão |                     Descrição                     |        Autor(es)        | Revisor(es) |
 | :--------: | :----: | :-----------------------------------------------: | :---------------------: | :---------: |
-| 30/12/2022 |  1.0   |           Criação dos perfis de usuário           | Charles Serafim Morais  |      -      |
+| 30/12/2022 |  1.0   |           Criação dos perfis de usuário           | Charles Serafim Morais  | Eric        |
