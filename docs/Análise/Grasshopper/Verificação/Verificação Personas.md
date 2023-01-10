@@ -22,7 +22,7 @@ produto específico cumpre sua função específica. Os processos de verificaç�
 validação começam cedo no desenvolvimento ou fase de manutenção. Eles 
 fornecem uma análise das principais funcionalidades do produto tanto em relação ao 
 produto imediatamente antecessor quanto em relação a especificações às quais ele 
-deve se ater.(Software Engineering Body of Knowledge"SWEBOK")
+deve se ater.(Software Engineering Body of Knowledge"SWEBOK").
 </p>
 
 
