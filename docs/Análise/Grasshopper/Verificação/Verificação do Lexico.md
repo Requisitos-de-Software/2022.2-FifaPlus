@@ -1,4 +1,4 @@
-# Verificação Backlog
+# Verificação Lexico
 
 
 ## 1. Introdução
@@ -43,7 +43,7 @@ Na tabela 2, estão apresentados os léxicos e se os itens foram ou não atingid
 <p> Tabela 2 - Checklist dos Léxicos (Fonte: Plano de Ensino).</p>
 
 
-## 12. Referências
+## 5. Referências
 
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10. Acesso em: 08 de jan. de 2023;
 > - (SILVA, 2019, p. 30). Acesso em: 08 de jan. de 2023.
@@ -51,7 +51,8 @@ Na tabela 2, estão apresentados os léxicos e se os itens foram ou não atingid
 
 
 
-## 13. Histórico de Versão
+## 6. Histórico de Versão
 | Data |   Versão    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
 |  09/01/2023  | 1.0 | Criação do escopo do documento  |    Wengel Rodrigues     | Eric Chagas |
+|  09/01/2023  | 1.1 | Correção do documento   |    Wengel Rodrigues     | Rafael  |
