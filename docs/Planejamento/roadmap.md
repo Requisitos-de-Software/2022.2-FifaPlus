@@ -84,9 +84,7 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 |                       NFR Framework                       |                Raphaela e Thiago                 |     02/01/2023      |     Charles      |     03/01/2023      |
 |                 Gravação da apresentação                  | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     02/01/2023      |        -         |          -          |
 |                  Edição da apresentação                   |                  Eric e Wengel                   |     03/01/2023      |        -         |          -          |
-|            Adicionar página de atas de reunião            |                       Eric                       |     02/01/2023      | Rafael e Charles |     03/01/2023      |
-| Criar documento de resultados da elicitação de requisitos |                  Eric e Thiago                   |     02/01/2023      |     Charles      |     03/01/2023      |
-|                  Criar perfis de usuário                  |                  Charles e Eric                  |     02/01/2023      |     Raphaela     |     03/01/2023      |
+
 
 ###### Tabela 5: Cronograma da Etapa 4. Fonte: Autoria própria.
 
@@ -94,7 +92,7 @@ Com base nos prazos estipulados pela disciplida, este documento apresenta o cron
 
 |     Atividade     |      Autor(es)       | Data Limite Entrega |     Revisor(es)      | Data Limite Revisão |
 | :---------------: | :------------------: | :-----------------: | :------------------: | :-----------------: |
-| Avaliação Grupo X | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     07/01/2023      | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     08/01/2023      |
+| Avaliação Grupo 1 | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     07/01/2023      | Charles, Eric, Rafael, Raphaela, Thiago e Wengel |     08/01/2023      |
 
 
 
@@ -152,5 +150,6 @@ Entregas do Projeto de Requisitos. Disponível em: <https://aprender3.unb.br/cou
 | 26/11/2022 |  1.2   |       Inclusão das outras etapas        |            Wengel Rodrigues             | Wengel      |
 | 29/11/2022 |  1.3   |          Ajustes no cronograma          |            Wengel Rodrigues             | Thiago      |
 | 29/12/2022 |  1.4   |          Ajustes no cronograma          |               Eric Chagas               | Thiago      |
+| 09/01/2023 |  1.5   |          Ajustes no cronograma          |            Wengel Rodrigues             | Eric        |
 
 ###### Tabela 10 - Histórico de versões. Fonte: Autoria própria.

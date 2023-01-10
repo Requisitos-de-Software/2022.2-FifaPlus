@@ -107,4 +107,4 @@
 
 |    Data    | Versão |                     Descrição                     |        Autor(es)        | Revisor(es) |
 | :--------: | :----: | :-----------------------------------------------: | :---------------------: | :---------: |
-| 30/11/2022 |  1.0   | Adicionado o resultado do FURPS+                  | Rafael Fernandes        |  Raphaela Guimarães|
+| 04/01/2023 |  1.0   | Adicionado o resultado do FURPS+                  | Rafael Fernandes        |  Raphaela Guimarães|
